@@ -1,0 +1,7 @@
+opencv-python
+scikit-image
+torch
+pandas
+requests
+yolov5
+PaddleOCR

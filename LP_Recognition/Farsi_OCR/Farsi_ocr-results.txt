@@ -1,0 +1,24 @@
+13_jpg.rf.1665f839ba5e9b114f2e32a62ddd2005.jpg 9 9 9 9 5 Inference time: 0.31 seconds
+14_jpg.rf.aaa3db98a8f0e3c867c91b2ec427bc8c.jpg vav 7 1 Inference time: 0.29 seconds
+14_jpg.rf.f1c081d395119dc3a3b80a247afbffc1.jpg  Inference time: 0.28 seconds
+15_png.rf.0976cfbb500a2152e1a3fc0c1a4e5857.jpg 1 6 5 4 Inference time: 0.30 seconds
+1_jpg.rf.e0d71bfac749526f7f57a7274f7f8f1e.jpg 9 lam 9 5 Inference time: 0.27 seconds
+27_png.rf.b0b8716a131c0677226f471ab3678c72.jpg 9 5 5 5 9 Inference time: 0.27 seconds
+417364312_1068529891141645_6625828181421494034_n_jpg.rf.f3d71e0a025ad3d1237b0a7c137fb060.jpg 9 5 9 5 9 Inference time: 0.25 seconds
+417570965_1736849176812307_1723590590995587808_n_jpg.rf.dedfea8f854ec3a3addb7b059de3fd53.jpg 5 7 9 9 9 9 Inference time: 0.24 seconds
+419173054_777935504164308_496264249723982035_n_jpg.rf.7fe782987e9a6766473a034b8eb1b156.jpg 9 9 5 5 9 9 Inference time: 0.26 seconds
+419241033_2209276712612167_308946357964497821_n_jpg.rf.d8c0ae777f53338fc56caa1c81550fb6.jpg 9 9 9 1 9 5 9 Inference time: 0.27 seconds
+419420193_2608644655967002_1421768417040176403_n_jpg.rf.e39b11b7b14e404ebe939432f104b554.jpg 9 9 5 6 5 5 Inference time: 0.24 seconds
+427649041_308812638842663_5019511625679107493_n_jpg.rf.9998e3a09980c149e92cd23bf3219022.jpg 9 5 1 Inference time: 0.24 seconds
+427667093_1133225274664600_1272288515667003555_n_jpg.rf.fe8ee31a87b81f2b3c76095f0dfec927.jpg 1 5 5 9 Inference time: 0.25 seconds
+428479596_2083530045364234_3401595779526985803_n_jpg.rf.e04cce7bf1401b66fa7418d2f531d39b.jpg 9 5 5 5 5 5 Inference time: 0.25 seconds
+57_jpg.rf.4d70900ecf4c5af1e6db08e7fc1fc015.jpg 9 5 5 5 Inference time: 0.25 seconds
+58_jpg.rf.0f7e465b5f8d3acd39e43dcadb31b7f0.jpg ta 9 Inference time: 0.25 seconds
+59_jpg.rf.5a62af5074f6f4d20136f24a27ed931a.jpg 1 9 9 Inference time: 0.24 seconds
+5_jpg.rf.08e989a458736c430ac8684895d3050f.jpg 5 1 1 6 4 Inference time: 0.25 seconds
+66_jpg.rf.47032f2c1c7d2a1bb2cbd7b9176df200.jpg 9 1 Inference time: 0.25 seconds
+69-3-_jpg.rf.2bd0216bca0355f5de78929ab9e42ced.jpg 9 lam 1 5 5 lam Inference time: 0.25 seconds
+70-1-_jpg.rf.d441ae9ef94c029ffcbfe74b95b8f4de.jpg 9 9 9 5 5 9 Inference time: 0.26 seconds
+70-13-_jpg.rf.155d171cdc72c0ac0e035e1b926569a9.jpg 5 6 Inference time: 0.25 seconds
+70-13-_jpg.rf.fa2aea14b2828cc01a9b67c6c3cea43a.jpg 7 Inference time: 0.25 seconds
+70-3-_jpg.rf.2a17adf768ca0f94b5838147ddcf6a7a.jpg 5 9 5 5 5 5 Inference time: 0.25 seconds

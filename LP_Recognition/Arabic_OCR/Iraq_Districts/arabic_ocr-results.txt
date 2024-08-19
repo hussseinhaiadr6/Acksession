@@ -1,0 +1,232 @@
+10004bc5f4_png.rf.411325e98e06778b15064f38dad96a48.jpg taxi babel Inference time: 0.25 seconds
+10005ee98b_png.rf.f53462ecc6ad3c85bea4fafd815870f1.jpg taxi salah-el-din Inference time: 0.23 seconds
+10008acf25_png.rf.645a5364e4ec7aadf2f4ec871cef27ef.jpg private salah-el-din Inference time: 0.24 seconds
+13_JPG_jpg.rf.edc8349b622d2a323958600337b0f746.jpg  Inference time: 0.23 seconds
+15_JPG_jpg.rf.d51052de95b41b463425ee1229263d98.jpg al-anbar Inference time: 0.23 seconds
+185217243_948074189273983_6179676195373630348_n_jpg.rf.4d3b1de59e7194490437f07872cf6572.jpg private al-anbar Inference time: 0.23 seconds
+206227412_957356815028599_2729141001378798642_n_jpg.rf.24a5a94711c09f18f3f968b3713b8c9d.jpg erbil Inference time: 0.24 seconds
+210909994_4313579368709679_3397001979589014134_n_jpg.rf.69881acdc41f57bcb9f54215564bdeba.jpg private al-qadissiya Inference time: 0.23 seconds
+214782684_4151182211644805_3893471544479508162_n_jpg.rf.1b8a673dfb9b7bc69af119bd1fa736b3.jpg erbil Inference time: 0.24 seconds
+216977624799d0_png.rf.b0990e7792c113372cff7310d0b59058.jpg souleimaniyah Inference time: 0.23 seconds
+21697768bae9dc_png.rf.271d7252b8ff62884a958ad4ffdda2d9.jpg dahuk Inference time: 0.24 seconds
+216983527d6dd7_png.rf.c1e2ac9627dfc37ccaea43a8c3ce0742.jpg private baghdad Inference time: 0.25 seconds
+21700926aa9f3c_png.rf.724fcc57c06de42f683110b456c27c88.jpg private baghdad Inference time: 0.24 seconds
+217014179331e5_png.rf.2d01de1d3ac0ae832f12d0ebcb712f1e.jpg private zi-kar Inference time: 0.23 seconds
+21702611afdb82_png.rf.6d4867aaf114f3d6258e54d8a1c29e07.jpg souleimaniyah Inference time: 0.23 seconds
+21702627c772e4-1-_png.rf.14ba25b82ddf34845038d79bd16d57c4.jpg private karkuk Inference time: 0.24 seconds
+217092723fd345_png.rf.3f777d2ff6b68df2849087299282e2dc.jpg souleimaniyah Inference time: 0.24 seconds
+21712332753378_png.rf.6d307be4967d40eef30bc0422a4637aa.jpg erbil Inference time: 0.23 seconds
+217134075f8098_png.rf.b1e40e6bf366f33468083312f54eba9e.jpg taxi baghdad Inference time: 0.23 seconds
+21719693cee6a1_png.rf.935bd3f7dd861891db74d0cc55dbd92b.jpg private baghdad Inference time: 0.23 seconds
+217261045f0cd2_png.rf.1a331ade00d0ab9e80fcec97b2d34c42.jpg private baghdad Inference time: 0.23 seconds
+217620504d5e9f_png.rf.0cb46b9ea3131c9dbb01f7df682cb4c5.jpg taxi baghdad Inference time: 0.24 seconds
+21762054000bf0_png.rf.f4c956719d70127bd2dbaad37b91ad5e.jpg private baghdad Inference time: 0.24 seconds
+217773408547bb_png.rf.efa716906c3906127c29f87dc4e97f6c.jpg private baghdad Inference time: 0.24 seconds
+21777352a074aa_png.rf.d27f18f5027a76d676e6670197204994.jpg erbil Inference time: 0.23 seconds
+217874571be7c2_png.rf.9738c1ae6de95569ee931b9de64eb096.jpg private baghdad Inference time: 0.23 seconds
+21797254d65f44_png.rf.525323fb233e5950c377a4cb1d9c6796.jpg private baghdad Inference time: 0.26 seconds
+21805511fa7583_png.rf.3b9653d11a8c3cad161c318f30a39ab2.jpg private baghdad Inference time: 0.25 seconds
+2181123909b983_png.rf.6d72a9808a0283fde83a11861cef4904.jpg private baghdad Inference time: 0.24 seconds
+21833435215315_png.rf.b00fe7eaf398ffc347b64b6ef15b982b.jpg private baghdad Inference time: 0.37 seconds
+218378610_4220097121367368_7259970710797235703_n_jpg.rf.9bcccce727bb3572cd3ca128863e30e4.jpg  Inference time: 0.25 seconds
+21849563e4a845_png.rf.609641d42bd5f9800657981375e7d0e3.jpg dahuk Inference time: 0.23 seconds
+21858878ab7956_png.rf.af8551c92d31fa2e26a6e8eaf097c5a8.jpg private baghdad Inference time: 0.23 seconds
+2186637457675d_png.rf.85a2c5ec1bec5ad0ddbd3b5b158e238c.jpg dahuk Inference time: 0.24 seconds
+2192440905bcba_png.rf.f50cbc4e113df804ddd5bb73dad1b55c.jpg erbil Inference time: 0.23 seconds
+219598931_226295426012657_1244623562228987532_n_jpg.rf.bd3429732024648ab77c014add74ead7.jpg souleimaniyah Inference time: 0.23 seconds
+22_JPG_jpg.rf.f05b7e073d2bd18039b0085a446ade00.jpg private baghdad Inference time: 0.23 seconds
+235407735_239031028072430_7990670612246498794_n_jpg.rf.62df9ec6ab3dae8f84c71803204d4ae5.jpg private baghdad Inference time: 0.24 seconds
+240466528_248174040491462_5463725909336066690_n_jpg.rf.132ed9c0158ed6da774b9a75777a3a6e.jpg karbala ninawa Inference time: 0.24 seconds
+240728800_250688953573304_5537175224910193998_n_jpg.rf.5395d4f2e68dd860060b46860ebd2563.jpg private baghdad Inference time: 0.23 seconds
+242220822_261674122474787_5351864982545987990_n_jpg.rf.728364fad2b090592e387cb96d2d36bc.jpg souleimaniyah Inference time: 0.23 seconds
+242356707_262719475703585_8223128253958326035_n_jpg.rf.531befb14b3e0d9f27df45d52f1a6bf7.jpg truck baghdad Inference time: 0.23 seconds
+242809807_265737272068472_739725302428544515_n_jpg.rf.0b352cbfaf663530aa418e9b759fe7b1.jpg private zi-kar Inference time: 0.23 seconds
+243155627_267488915226641_236895811592042416_n_jpg.rf.7bd993933d634931a8a0457c21dd9ee6.jpg private baghdad Inference time: 0.23 seconds
+250732319_288878496421016_6049539714726090830_n_jpg.rf.c89548badcf43cddf0db66c944f46224.jpg taxi al-basra Inference time: 0.24 seconds
+252236397_291374392838093_7415372799093133819_n_jpg.rf.edac4726accf75f54b632a223b29b247.jpg erbil Inference time: 0.23 seconds
+295332426_1235336137266880_7355762763206504722_n_jpg.rf.7ca7d682edc94cb2278650492cbe767e.jpg private baghdad Inference time: 0.23 seconds
+297413324_1247113152755845_8417745660356804369_n_jpg.rf.8fe16dd2003551d0b55d177171242cc3.jpg private baghdad Inference time: 0.25 seconds
+298496985_1249288892538271_923733864602261163_n_jpg.rf.6317d2684b3a8ff3bc73ea29c1002f5c.jpg private baghdad Inference time: 0.28 seconds
+29_JPG_jpg.rf.081b91e21f00d505d51dd4e5616f2237.jpg private baghdad Inference time: 0.26 seconds
+311432964_1303589667108193_8716447219222009272_n_jpg.rf.00180f873f02f5acba3c4c352663470c.jpg private ninawa Inference time: 0.25 seconds
+31_JPG_jpg.rf.c0f8781d18de5ee80feb1649f9c75140.jpg private baghdad Inference time: 0.24 seconds
+347249819_655533483281779_6216258662291580630_n_jpg.rf.a44f49371db6132f735f5d39255e8d56.jpg private baghdad Inference time: 0.23 seconds
+347251175_657287156439745_6449985514510837448_n_jpg.rf.d17e4402494ae44bdf2542f98b8d63bf.jpg private baghdad Inference time: 0.24 seconds
+347252016_552850663685579_5001069123866072638_n_jpg.rf.540313bed19c3d47298c4bba029220f3.jpg truck ninawa Inference time: 0.23 seconds
+355909456_657286513106476_7004574762954056448_n_jpg.rf.42a28cfe6148a901fa6e1c23a4024aec.jpg private baghdad Inference time: 0.24 seconds
+35_JPG_jpg.rf.0fc8ab1b4212d4e31f346fc588cf505a.jpg souleimaniyah Inference time: 0.23 seconds
+3_JPG_jpg.rf.9a4ae95c0edac89235973198afb66632.jpg erbil Inference time: 0.24 seconds
+44_JPG_jpg.rf.b7922f0aed404f9438c21b135088addd.jpg private baghdad Inference time: 0.24 seconds
+56546_jpg.rf.fed11406bc329563a4a5e4bf91234e7d.jpg souleimaniyah Inference time: 0.25 seconds
+8_JPG_jpg.rf.bc624ed6546834f3fea5796efc5216c4.jpg erbil Inference time: 0.24 seconds
+a-144-_JPG_jpg.rf.4de1b744d60b77bac68d6fa87fc0f7bd.jpg private waset Inference time: 0.26 seconds
+a-152-_JPG_jpg.rf.193d653b970f9b2603c7416cb367c14f.jpg private baghdad Inference time: 0.25 seconds
+a-164-_JPG_jpg.rf.d67dd584c2ccdedff4511327175065b8.jpg private baghdad Inference time: 0.25 seconds
+a-175-_JPG_jpg.rf.de3695cbcb3a60645ad3847722d3fc95.jpg private baghdad Inference time: 0.23 seconds
+a-2-copy-b_JPG_jpg.rf.9d8f9598c0e8c2e4e2231dbebab91a08.jpg erbil Inference time: 0.23 seconds
+a-222-_JPG_jpg.rf.be1cf9fd6e37814e2ab657e904d13704.jpg private baghdad Inference time: 0.25 seconds
+a-231-_JPG_jpg.rf.534477cde96988cad9348224be940305.jpg private baghdad Inference time: 0.23 seconds
+a-28-_JPG_jpg.rf.05c3032cf53f6d8268082fcb044072c3.jpg taxi baghdad Inference time: 0.23 seconds
+a-320-_JPG_jpg.rf.b27fb073a8760ec569cfd72f071f89a4.jpg private baghdad Inference time: 0.25 seconds
+a-329-_JPG_jpg.rf.561e7eee1d3a90598cdb62f5a202ea23.jpg private waset Inference time: 0.24 seconds
+a-361-copy-b_JPG_jpg.rf.f005420a081a30520448ac55d7abcd94.jpg souleimaniyah Inference time: 0.25 seconds
+a-387-_JPG_jpg.rf.eee86a379fe862b1c791ed950ed95b34.jpg private baghdad Inference time: 0.25 seconds
+a-397-_JPG_jpg.rf.e9ad6de8d415f66de4d5e6fa59d86bd8.jpg erbil Inference time: 0.25 seconds
+a-453-_JPG_jpg.rf.7357a1fdda1ddc866101bbb2f6cb850b.jpg private baghdad Inference time: 0.25 seconds
+a-455-_JPG_jpg.rf.4a38b7bc52dac59b0e2c78501c813ee6.jpg private baghdad Inference time: 0.25 seconds
+a-572-1-_JPG_jpg.rf.db1ac2e1977a50f3b3dfaafa0daa59e1.jpg private baghdad Inference time: 0.25 seconds
+a_jpg.rf.bafcb5fe1ad734f33b319e5abe4541b0.jpg erbil Inference time: 0.25 seconds
+bz109_jpg.rf.08192710463f26073a04ad7f40fd2f1c.jpg taxi baghdad Inference time: 0.25 seconds
+bz1_jpg.rf.41dec65cb8e36f4cff2c1d880c67d567.jpg private baghdad Inference time: 0.24 seconds
+bz31_jpg.rf.152e74d129cae5e9d55d28443e4279ac.jpg erbil Inference time: 0.26 seconds
+bz39_jpg.rf.e7e028fbe4a4841bae8b0d5de91f7093.jpg taxi baghdad Inference time: 0.26 seconds
+bz46_jpg.rf.d22622750b56df285c83b9ae632ea82c.jpg private baghdad Inference time: 0.26 seconds
+bz71_jpg.rf.087923f3186b20e909b1501c5c2b491f.jpg private baghdad Inference time: 0.26 seconds
+bz74_jpg.rf.af3916574450fb9f6bce2b0c0eb5eba1.jpg taxi baghdad Inference time: 0.26 seconds
+bz91_jpg.rf.45ba1b39a98b3ef5e5d43a58d4a23080.jpg taxi baghdad Inference time: 0.25 seconds
+bz96_jpg.rf.11d32425799b0b616c26e72012b7a71c.jpg private baghdad Inference time: 0.26 seconds
+Capture12_PNG.rf.65cd003aa3d7da8aad7194d385d3ea9a.jpg erbil Inference time: 0.27 seconds
+FB_IMG_1666327180412_jpg.rf.b79e25d9402240a6ae33e13f898915be.jpg dahuk Inference time: 0.27 seconds
+FB_IMG_1666327534890_jpg.rf.81fe2af37f7b36d84b54021f2917317d.jpg erbil Inference time: 0.26 seconds
+FB_IMG_1688242413559_jpg.rf.eafdb508b8b34641cd95b11ede884869.jpg private al-qadissiya Inference time: 0.25 seconds
+FB_IMG_1688415019054_jpg.rf.37aa82b6a438c7cf9b2e2c36d686b04a.jpg private al-qadissiya Inference time: 0.25 seconds
+FB_IMG_1688415308270_jpg.rf.3bbcbe97518ef2acee7f8d74f84b9320.jpg taxi al-basra Inference time: 0.25 seconds
+FB_IMG_1688415696548_jpg.rf.4f176a895d413922eeeddee2bba802f2.jpg private zi-kar Inference time: 0.26 seconds
+FB_IMG_1688415818936_jpg.rf.0d422da526701a19fad04be101cbd19a.jpg private misan Inference time: 0.25 seconds
+Iraq_-_Kurdistan_-_License_Plate_-_1988-2022_Truck-1-_png.rf.b3b880ba6a24eaccea828ca0b829a4ba.jpg erbil Inference time: 0.25 seconds
+Iraq_-_Kurdistan_-_License_Plate_-_Erbil_png.rf.b0069113639700f839862db3f0f3a891.jpg erbil Inference time: 0.25 seconds
+OIP4556_jpg.rf.8e14220fada7a47cb4c977b2eed77c05.jpg private baghdad Inference time: 0.25 seconds
+OIP9_jpg.rf.96dd52afa03c79b0a02305999734eee3.jpg al-anbar misan al-basra Inference time: 0.24 seconds
+OIPyuyu_jpg.rf.c64e70175d4646f5bd94e8e02921133c.jpg truck al-qadissiya Inference time: 0.26 seconds
+photo_2023-02-12_07-54-58_jpg.rf.fbf960cd0cc04f873502dd44fe2f8234.jpg erbil Inference time: 0.26 seconds
+photo_2023-02-12_07-55-07_jpg.rf.51cf064bce7273f825fadae1268532b4.jpg erbil Inference time: 0.27 seconds
+photo_2023-02-12_07-55-18_jpg.rf.f585442b37640658503e64a9cfd06e84.jpg erbil Inference time: 0.25 seconds
+photo_2023-02-12_07-55-19_jpg.rf.0ea7b41f4eb8eb65ba0b3c8e3d93252b.jpg erbil Inference time: 0.25 seconds
+photo_2023-02-12_07-56-27_jpg.rf.762dab3ea391e83521c7d33451b10ac2.jpg private baghdad Inference time: 0.24 seconds
+photo_2023-02-12_07-56-41_jpg.rf.f55c9a2c1d2df1cd559fc11e4f44bec3.jpg private baghdad Inference time: 0.25 seconds
+photo_2023-07-02_00-01-38_jpg.rf.169968f01eba554427b31dc58909bce7.jpg private al-basra Inference time: 0.25 seconds
+q4_jpeg.rf.a7fd4c3b38500219a7586b30ee7e87f4.jpg baghdad Inference time: 0.27 seconds
+Screenshot-2023-05-30-221913_jpg.rf.a6624245f4e464da0787d0ee4b6c8421.jpg private baghdad Inference time: 0.28 seconds
+Screenshot-2023-05-30-221929_jpg.rf.1b562e8d36b63522c4843fceaf315d93.jpg private al-basra Inference time: 0.27 seconds
+Screenshot-2023-05-30-222043_jpg.rf.2bd3e68cbd110dc6384e48c516985837.jpg souleimaniyah Inference time: 0.31 seconds
+Screenshot-2023-05-30-224041_jpg.rf.d3f6e8ce573aaceac797adba06bc6b0f.jpg erbil Inference time: 0.31 seconds
+SmartSelect_20230703_232921_Facebook_jpg.rf.8c9dfec829913ed1c9246ab6db155ff5.jpg private waset Inference time: 0.30 seconds
+SmartSelect_20230703_233808_Facebook_jpg.rf.21f9d3a8ad9e53731e5e8a2175467f18.jpg taxi misan Inference time: 0.29 seconds
+SmartSelect_20230703_234311_Facebook_jpg.rf.36be35601a8808aea2626677f360c2cb.jpg taxi waset Inference time: 0.27 seconds
+SmartSelect_20230703_234410_Facebook_jpg.rf.6b48dc0ed5b43da313fcc2982bc27a21.jpg taxi waset Inference time: 0.25 seconds
+SmartSelect_20230703_234532_Facebook_jpg.rf.8a9c395a051885d41f8bb2101008571b.jpg souleimaniyah Inference time: 0.25 seconds
+SmartSelect_20230703_234715_Facebook_jpg.rf.778cdd6662c49a772caf5e726792d4ef.jpg private waset Inference time: 0.26 seconds
+SmartSelect_20230703_234846_Facebook_jpg.rf.42df217dbc94710231ff65ed27152f11.jpg taxi waset Inference time: 0.25 seconds
+SmartSelect_20230703_234929_Facebook_jpg.rf.da03dab1ca50ebd55d76f911db7d114d.jpg private zi-kar Inference time: 0.24 seconds
+SmartSelect_20230703_235638_Facebook_jpg.rf.c90be31acbe48e6ca1ccfd0148bad555.jpg private al-masna Inference time: 0.24 seconds
+SmartSelect_20230703_235830_Facebook_jpg.rf.0d408bba15fede7a3f85d46577d2c5d7.jpg private babel Inference time: 0.24 seconds
+SmartSelect_20230704_000102_Facebook_jpg.rf.8130fef94f99f3f3ba59e6e4c33dda8c.jpg taxi taxi al-masna Inference time: 0.25 seconds
+SmartSelect_20230704_000128_Facebook_jpg.rf.74e0cb6143752eabdf4f889642c90908.jpg private al-masna Inference time: 0.25 seconds
+SmartSelect_20230704_000432_Facebook_jpg.rf.a1e2f3de3df25629268aa219dc99e119.jpg private al-najaf Inference time: 0.26 seconds
+SmartSelect_20230704_001024_Facebook_jpg.rf.cf02a229880b1fac3262045c9f824233.jpg private al-masna Inference time: 0.25 seconds
+SmartSelect_20230704_001040_Facebook_jpg.rf.d93df272eb6620c9fddf426fb1589f9a.jpg private al-masna Inference time: 0.24 seconds
+SmartSelect_20230704_001344_Facebook_jpg.rf.a037a9547feaa99724dbd58635207ecb.jpg private al-masna Inference time: 0.27 seconds
+SmartSelect_20230704_001945_Facebook_jpg.rf.e3a2cf933b972fcbf8ddc212fe3ce37f.jpg private zi-kar Inference time: 0.26 seconds
+SmartSelect_20230704_002030_Facebook_jpg.rf.92bdb36f4b843abfff6e78bc0abb7128.jpg private al-masna Inference time: 0.25 seconds
+SmartSelect_20230704_002126_Facebook_jpg.rf.858d5b55988cf768acef81d46908a185.jpg private al-masna Inference time: 0.24 seconds
+SmartSelect_20230704_002435_Facebook_jpg.rf.63134c2ee671935cbf9229b79af26e67.jpg private al-basra Inference time: 0.25 seconds
+SmartSelect_20230704_002557_Facebook_jpg.rf.945ec91ce1fc5939c6de5914a515a27f.jpg private zi-kar Inference time: 0.28 seconds
+SmartSelect_20230704_003348_Facebook_jpg.rf.f0c4c36503cbdcfb8faff1d9a1a90340.jpg private zi-kar Inference time: 0.25 seconds
+SmartSelect_20230704_003636_Facebook_jpg.rf.d75b25a7885cecb09099a0d24ef3bda9.jpg private al-qadissiya Inference time: 0.27 seconds
+SmartSelect_20230704_004427_Facebook_jpg.rf.f7cf42131f608873e7e0e1a5564c4bef.jpg private al-masna Inference time: 0.26 seconds
+SmartSelect_20230704_004444_Facebook_jpg.rf.04fc281e8e6e85639ec28d9e13883112.jpg private al-masna Inference time: 0.27 seconds
+SmartSelect_20230704_005216_Facebook_jpg.rf.8d7966d5ddf4970e1a34770797a8e47c.jpg private al-masna Inference time: 0.25 seconds
+SmartSelect_20230704_005438_Facebook_jpg.rf.bf6b619f2af67745ed4fe8b4970c39e0.jpg taxi al-qadissiya Inference time: 0.27 seconds
+SmartSelect_20230704_005616_Facebook_jpg.rf.3f33bb8351627739197f63b851a13cf7.jpg private zi-kar Inference time: 0.28 seconds
+SmartSelect_20230704_005820_Facebook_jpg.rf.7ce516c6dbc5c621434829481275c09f.jpg taxi babel Inference time: 0.29 seconds
+SmartSelect_20230704_011715_Facebook_jpg.rf.57fa54e2feceab0ddfb1ba87ad7f02f6.jpg taxi al-najaf Inference time: 0.34 seconds
+SmartSelect_20230704_011734_Facebook_jpg.rf.a3156126757a8c744515915d33090a28.jpg private al-qadissiya Inference time: 0.30 seconds
+SmartSelect_20230704_013153_Facebook_jpg.rf.00a44625bc2568e225fae680913f503c.jpg taxi al-najaf Inference time: 0.27 seconds
+SmartSelect_20230704_013756_Facebook_jpg.rf.9566d521310fd7160a3004c4e4212edc.jpg dahuk Inference time: 0.27 seconds
+SmartSelect_20230704_013911_Facebook_jpg.rf.71e3a351cea46068acbed98ad6e84440.jpg private zi-kar Inference time: 0.25 seconds
+SmartSelect_20230704_014633_Facebook_jpg.rf.2d704b8960df44ec811daa72f2a2b361.jpg private babel Inference time: 0.25 seconds
+SmartSelect_20230704_015507_Facebook_jpg.rf.f8bccbeb305737b5db6ac7e18de65376.jpg private al-najaf Inference time: 0.24 seconds
+SmartSelect_20230704_023053_Facebook_jpg.rf.5c3fb2740dff83aa4f5aecd758ddb618.jpg private al-qadissiya Inference time: 0.25 seconds
+SmartSelect_20230705_011805_Facebook_jpg.rf.57bcc1110649e5924f14f7e56eea78b4.jpg souleimaniyah Inference time: 0.25 seconds
+SmartSelect_20230705_012529_Facebook_jpg.rf.656d1564b2faf50d3507b141f10e4d3f.jpg private zi-kar Inference time: 0.25 seconds
+SmartSelect_20230705_012938_Facebook_jpg.rf.03a4a667c65e514e268eeb9c00114037.jpg private al-qadissiya Inference time: 0.25 seconds
+SmartSelect_20230705_013032_Facebook_jpg.rf.cc03dec29070deebcd9c4669940c6662.jpg taxi al-basra Inference time: 0.25 seconds
+SmartSelect_20230705_013228_Facebook_jpg.rf.d5de5ec21b327cab6d0cce055c41ccde.jpg erbil Inference time: 0.26 seconds
+SmartSelect_20230705_014318_Facebook_jpg.rf.aaa817952a71e5479e68bbf8baaecc94.jpg private babel Inference time: 0.25 seconds
+SmartSelect_20230705_014647_Facebook_jpg.rf.fc4429103ff3f6f3fb12084f6dee675e.jpg taxi babel Inference time: 0.24 seconds
+SmartSelect_20230705_015010_Facebook_jpg.rf.c06706023ec60042a1c441fff8ba8374.jpg private zi-kar Inference time: 0.24 seconds
+SmartSelect_20230705_015110_Facebook_jpg.rf.9c6f339535a1387e13bae419046e2683.jpg private al-masna Inference time: 0.24 seconds
+SmartSelect_20230705_150405_Facebook_jpg.rf.0566f222f7ef23f7532b38a5af196e54.jpg taxi al-najaf Inference time: 0.26 seconds
+SmartSelect_20230705_151319_Facebook_jpg.rf.31d8d9ee2e2073ff41f8799b884e3de1.jpg private babel Inference time: 0.25 seconds
+SmartSelect_20230705_151340_Facebook_jpg.rf.ed72b62635e10fa38597084e4c887e19.jpg private karbala Inference time: 0.25 seconds
+SmartSelect_20230705_200201_Facebook_jpg.rf.646ca4b14a2c70dbdd405af9f3aea3d9.jpg private al-basra Inference time: 0.29 seconds
+SmartSelect_20230705_200316_Facebook_jpg.rf.9f3c58de1bdc81211f36429ea66adc10.jpg erbil Inference time: 0.26 seconds
+SmartSelect_20230705_200527_Facebook_jpg.rf.a5c33d4d160aa8d1142e7b01cd2d1660.jpg private al-basra Inference time: 0.31 seconds
+SmartSelect_20230705_201914_Facebook_jpg.rf.ecb0f48c754fb7f5feafd33578c9d2e3.jpg private zi-kar Inference time: 0.29 seconds
+SmartSelect_20230705_202952_Facebook_jpg.rf.8cb590d88e1a7cb2ccf0ca809fe61098.jpg truck al-basra Inference time: 0.28 seconds
+SmartSelect_20230705_203042_Facebook_jpg.rf.18a98a8bdf713c10c77a001d37959bcf.jpg private al-basra Inference time: 0.28 seconds
+SmartSelect_20230705_210346_Facebook_jpg.rf.832c58234614154057295813c084ec80.jpg souleimaniyah Inference time: 0.33 seconds
+SmartSelect_20230705_210739_Facebook_jpg.rf.3805dccd230a033411587f1c846075c8.jpg erbil Inference time: 0.32 seconds
+SmartSelect_20230705_211052_Facebook_jpg.rf.397fc88d36a2224316e3af1c702b7dcf.jpg dahuk Inference time: 0.32 seconds
+SmartSelect_20230705_211848_Facebook_jpg.rf.99daa937cbe94e5c95ddd595982cb5df.jpg erbil Inference time: 0.30 seconds
+SmartSelect_20230705_212621_Facebook_jpg.rf.e166064cfa683af1e284cbca2dd618ad.jpg erbil Inference time: 0.25 seconds
+SmartSelect_20230705_213632_Facebook_jpg.rf.a865ebb764eb3cebb3e31816e0c7406f.jpg dahuk Inference time: 0.25 seconds
+SmartSelect_20230705_214634_Facebook_jpg.rf.27068de6186b3e807a88988607f83779.jpg erbil Inference time: 0.25 seconds
+SmartSelect_20230705_214907_Facebook_jpg.rf.eb9450ac62a13eaff7d580f08cfb33bd.jpg erbil Inference time: 0.25 seconds
+SmartSelect_20230705_214935_Facebook_jpg.rf.776774eabc57477c0603d7ee49e0b1c1.jpg souleimaniyah Inference time: 0.25 seconds
+SmartSelect_20230705_215029_Facebook_jpg.rf.ac3c7c35768369d426b949f954b7381b.jpg erbil Inference time: 0.26 seconds
+SmartSelect_20230705_215229_Facebook_jpg.rf.8ea3aa993fd8a918f260dd453f6f3009.jpg erbil Inference time: 0.25 seconds
+SmartSelect_20230705_215320_Facebook_jpg.rf.92276cf8a07a2301b6e834ac927c3cfd.jpg erbil Inference time: 0.25 seconds
+SmartSelect_20230705_220033_Facebook_jpg.rf.95c9520a221b74a2066ca484a1fc4912.jpg erbil Inference time: 0.26 seconds
+SmartSelect_20230705_220711_Facebook_jpg.rf.ac49ee747d6c4fb2cd6c268bf18d32d2.jpg dahuk Inference time: 0.27 seconds
+SmartSelect_20230705_220757_Facebook_jpg.rf.d0e93c0c48359d39da34dda800e622ab.jpg souleimaniyah Inference time: 0.26 seconds
+SmartSelect_20230705_221314_Facebook_jpg.rf.a353d4d7683b336c62fd6d38f1df4026.jpg dahuk Inference time: 0.26 seconds
+SmartSelect_20230705_221426_Facebook_jpg.rf.3cd31c56c84682274c41f1feaa5a7ea7.jpg erbil Inference time: 0.26 seconds
+SmartSelect_20230705_223336_Facebook_jpg.rf.3e75b78617eb6c840dcd562d7641ac52.jpg dahuk Inference time: 0.26 seconds
+SmartSelect_20230705_223418_Facebook_jpg.rf.1e4aa05f6f1d8d3c41eb83363550c311.jpg dahuk Inference time: 0.26 seconds
+SmartSelect_20230705_223458_Facebook_jpg.rf.c1e8e86be91942ab059a4b27ba86d255.jpg souleimaniyah Inference time: 0.25 seconds
+SmartSelect_20230705_223920_Facebook_jpg.rf.51c8e624dd2df68f8535c477c8014ae5.jpg dahuk Inference time: 0.27 seconds
+SmartSelect_20230705_223948_Facebook_jpg.rf.8569382c8575655af67cdf97736bc932.jpg erbil Inference time: 0.28 seconds
+SmartSelect_20230705_224631_Facebook_jpg.rf.d612aac834d4c7096c0a59ac60cf01a7.jpg private al-qadissiya Inference time: 0.26 seconds
+SmartSelect_20230705_225815_Facebook_jpg.rf.e2d584adb2dbf8352a99e6cb3edab24c.jpg private karbala Inference time: 0.25 seconds
+SmartSelect_20230705_225953_Facebook_jpg.rf.a0e5d78c30ddce0826a9c01ee689f08b.jpg private karkuk Inference time: 0.25 seconds
+SmartSelect_20230705_230455_Facebook_jpg.rf.dbbf16a9fea1c51dafb81f23b334b806.jpg taxi misan Inference time: 0.25 seconds
+SmartSelect_20230705_230614_Facebook_jpg.rf.217108bee3e8a6382042216b80560f23.jpg private ninawa Inference time: 0.26 seconds
+SmartSelect_20230705_230904_Facebook_jpg.rf.319ffb2623782eb2795561eea25c3791.jpg private ninawa Inference time: 0.25 seconds
+SmartSelect_20230705_231220_Facebook_jpg.rf.dd8f78c57181190ebf8aa0d22170dc69.jpg erbil Inference time: 0.25 seconds
+SmartSelect_20230705_231827_Facebook_jpg.rf.eb4c1e438d2e28734991ec7e6df6dbb5.jpg taxi ninawa Inference time: 0.25 seconds
+SmartSelect_20230705_232108_Facebook_jpg.rf.17b8c807fc8337bccb813d88feb5c87a.jpg souleimaniyah Inference time: 0.27 seconds
+SmartSelect_20230705_233216_Facebook_jpg.rf.1f42a2981bfdbf5cb201884fa92d34ce.jpg souleimaniyah Inference time: 0.25 seconds
+SmartSelect_20230705_233913_Facebook_jpg.rf.4afbaffc33992c9ccf9b3351b4d6fbcb.jpg dahuk Inference time: 0.24 seconds
+SmartSelect_20230705_234615_Facebook_jpg.rf.2d5d2bb755fdbc55952b5b0eb1c5c570.jpg private salah-el-din Inference time: 0.25 seconds
+SmartSelect_20230705_235036_Facebook_jpg.rf.008d96696bf8a60daa8662875a0473bc.jpg private karkuk Inference time: 0.25 seconds
+SmartSelect_20230705_235110_Facebook_jpg.rf.d23adcb96066bdca75e7bcbfd139715c.jpg private dialy Inference time: 0.25 seconds
+SmartSelect_20230705_235802_Facebook_jpg.rf.6b3795029669f05a390f71c83fa77ed9.jpg private al-basra Inference time: 0.25 seconds
+SmartSelect_20230705_235942_Facebook_jpg.rf.cedd4f8f34b63d9e876d1acfae426318.jpg private al-anbar Inference time: 0.24 seconds
+SmartSelect_20230706_000810_Facebook_jpg.rf.b464198a500953b2a6007f3f712b1538.jpg taxi karbala Inference time: 0.24 seconds
+SmartSelect_20230706_001535_Facebook_jpg.rf.833bf3be17e815b8f2a15820c2ba994f.jpg taxi waset Inference time: 0.24 seconds
+SmartSelect_20230706_001726_Facebook_jpg.rf.37c8b64122245998ede0d5d3d56e1ead.jpg private al-anbar Inference time: 0.24 seconds
+SmartSelect_20230706_003440_Facebook_jpg.rf.9aeb769847e513033ea94d4a2c972c24.jpg truck dialy Inference time: 0.25 seconds
+SmartSelect_20230706_004136_Facebook_jpg.rf.164eb3c5236d8ee34e8fb17a025fb8d9.jpg private dialy Inference time: 0.25 seconds
+SmartSelect_20230706_004147_Facebook_jpg.rf.3c5c0fda5e2087d93c2aaf307346b2cb.jpg private dialy Inference time: 0.25 seconds
+SmartSelect_20230706_004240_Facebook_jpg.rf.26554d70187cf03733e178fb7b1fc8b3.jpg private dialy Inference time: 0.25 seconds
+SmartSelect_20230706_004936_Facebook_jpg.rf.825049f6aabbdd2547103991212b4f4e.jpg private dialy Inference time: 0.27 seconds
+SmartSelect_20230706_010047_Facebook_jpg.rf.3b77eac61d38fed234ee5940828f3e6e.jpg private karkuk Inference time: 0.26 seconds
+SmartSelect_20230706_110038_Facebook_jpg.rf.9a193742ff45087674b35e0ba540b049.jpg private al-najaf Inference time: 0.27 seconds
+SmartSelect_20230706_110339_Facebook_jpg.rf.a51754e2ea3f0e5c7281b11d38d4a9a4.jpg taxi al-basra Inference time: 0.28 seconds
+SmartSelect_20230706_110410_Facebook_jpg.rf.fb1e9c022d699b6a7de384fe66f8d1da.jpg private dialy Inference time: 0.25 seconds
+SmartSelect_20230706_110510_Facebook_jpg.rf.bf250797ba4397a2740814cc06e571cb.jpg taxi al-basra Inference time: 0.26 seconds
+SmartSelect_20230706_110531_Facebook_jpg.rf.accb216813bd02a134232d97f26542d8.jpg private karbala Inference time: 0.25 seconds
+SmartSelect_20230706_111535_Facebook_jpg.rf.5c3a4b7a5bc127fbd2aa0d943b721da9.jpg taxi waset Inference time: 0.28 seconds
+SmartSelect_20230706_111544_Facebook_jpg.rf.4124c54410320fb5d1b2a4e269a4158d.jpg private dialy Inference time: 0.35 seconds
+SmartSelect_20230706_111752_Facebook_jpg.rf.f65878e3d907b9ee3d7898ac3a6e0904.jpg private babel Inference time: 0.45 seconds
+SmartSelect_20230706_112446_Facebook_jpg.rf.3cd403fc9b9e0b247075d64af8b1ef19.jpg private karbala Inference time: 0.38 seconds
+SmartSelect_20230706_113136_Facebook_jpg.rf.60e6b65161fbc52a4d615394e3a01a8f.jpg truck al-najaf Inference time: 0.39 seconds
+SmartSelect_20230706_113623_Facebook_jpg.rf.65013d3c815d4fd03eb2b3f0c7b9df19.jpg private al-anbar Inference time: 0.34 seconds
+SmartSelect_20230706_114126_Facebook_jpg.rf.7de806a7bd106ea940148fa20c1955ea.jpg private ninawa Inference time: 0.33 seconds
+SmartSelect_20230706_114309_Facebook_jpg.rf.cad932d472f162038b12f915152dae94.jpg private dialy Inference time: 0.28 seconds
+SmartSelect_20230706_114719_Facebook_jpg.rf.3b5f8edac852da1ba0b5df715d72d8db.jpg private dialy Inference time: 0.28 seconds
+SmartSelect_20230706_114941_Facebook_jpg.rf.3a7ed4af604f8f226bb0754e3be5e400.jpg private babel Inference time: 0.28 seconds
+SmartSelect_20230706_115128_Facebook_jpg.rf.c248c6f31f9ef211d13397fdd3d624ff.jpg private babel Inference time: 0.27 seconds
+SmartSelect_20230706_115514_Facebook_jpg.rf.afdedde9155e6fab3e1479fa31eb3397.jpg private karkuk Inference time: 0.28 seconds
+SmartSelect_20230706_133442_Facebook_jpg.rf.8e7c214b7065d06e83bfcdf42718ab90.jpg private salah-el-din Inference time: 0.27 seconds
