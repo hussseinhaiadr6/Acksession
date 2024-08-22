@@ -3,7 +3,7 @@ from PIL import Image
 import torch
 
 # Load your custom model
-model = torch.hub.load(r'C:\Users\HHR6\PycharmProjects\Testing_Pipeline\yolov5', 'custom',force_r0load=True, path='./Models/IranLPDetection3.pt',source="local")
+model = torch.hub.load(r'C:\Users\HHR6\PycharmProjects\Testing_Pipeline\yolov5', 'custom',force_reload=True, path='./Models/IranLPDetection3.pt',source="local")
 model.conf = 0.45  # NMS confidence threshold
 iou = 0.45  # NMS IoU threshold
 model.agnostic = True
@@ -99,4 +99,4 @@ def inference_directory(input_dir):
 
 # Test the function
 inference_image(r"C:\Users\HHR6\PycharmProjects\Testing_Pipeline\Acksession-Project\yolov8_compiled_dataset\test\images\1_jpg.rf.e0d71bfac749526f7f57a7274f7f8f1e.jpg")
-inference_directory(r"C:\Users\HHR6\PycharmProjects\Testing_Pipeline\car_img-validation/images")
+inference_directory(r"C:\Users\HHR6\PycharmProjects\Testing_Pipeline/Acksession-Project/yolov8_compiled_dataset/valid/images")
