@@ -1,38 +1,54 @@
+
 import os
 import time
-from PIL import Image
+from PIL import Image, ImageDraw, ImageFont
 from ultralytics import YOLO
 import torch
 
 # Load your custom model
-model = torch.hub.load(r'C:\Users\HHR6\PycharmProjects\ALPR\yolov5', 'custom', path='../Models/district.pt', source='local')
-model.conf = 0.35  # NMS confidence threshold
-iou = 0.45  # NMS IoU threshold
+model = torch.hub.load(r'C:\Users\HHR6\PycharmProjects\ALPR\yolov5', 'custom', path='../Models/district.pt',
+                       source='local')
+model.conf = 0.45  # NMS confidence threshold
+iou = 0.65  # NMS IoU threshold
 model.agnostic = False
 
 # Directory paths
-input_dir = r'C:\Users\HHR6\PycharmProjects\AcksessionIntegration\LP_Recognition\Arabic_OCR\Iraq_Districts\images\content\arabic_dataset-3\test\images/'
+input_dir = r'C:\Users\HHR6\PycharmProjects\AcksessionIntegration\LP_Detection\Yolo\output_Iraq\OLD_Iraq'
+output_dir = r'./output_not_benchmark/'
 
-
-# Create the resized_images directory if it doesn't exist
+# Create the output directory if it doesn't exist
+os.makedirs(output_dir, exist_ok=True)
 
 
 # Function to resize image
 def resize_image(input_path, size=(320, 320)):
     with Image.open(input_path) as img:
         resized_img = img.resize(size, Image.LANCZOS)
-        #resized_img.save(output_path)
         return resized_img
 
 
+# Function to draw text on image
+def draw_text_on_image(image, text, font_size=40):  # Increase font_size for bigger text
+    draw = ImageDraw.Draw(image)
+    try:
+        font = ImageFont.truetype("arial.ttf", font_size)  # Use TrueType font with specified size
+    except IOError:
+        font = ImageFont.load_default()  # Fallback to default font if the specified font is not found
+
+    text_width, text_height = draw.textbbox((0, 0), text, font=font)[2:]
+    image_width, image_height = image.size
+    text_position = ((image_width - text_width) // 2, image_height - text_height - 10)
+    draw.text(text_position, text, fill="red", font=font)
+
 # Save the formatted strings to a text file
-output_file_path = 'arabic_ocr-results.txt'
+output_file_path = os.path.join(output_dir, 'arabic_ocr-results.txt')
 with open(output_file_path, 'w') as f:
     for filename in os.listdir(input_dir):
-        print(os.path.join(input_dir,filename))
-        resized_image=resize_image(os.path.join(input_dir,filename))
-        # Image file path
+        input_path = os.path.join(input_dir, filename)
+        print(input_path)
 
+        # Resize the image
+        resized_image = resize_image(input_path)
 
         # Measure inference time
         start_time = time.time()
@@ -52,8 +68,16 @@ with open(output_file_path, 'w') as f:
         # Get the class names in sorted order
         sorted_classes = df_sorted['name'].tolist()
         print(sorted_classes)
+
         # Create the formatted string
         output_string = f"{filename} {' '.join(sorted_classes)} Inference time: {inference_time:.2f} seconds"
+
+        # Draw text on the resized image
+        draw_text_on_image(resized_image, ' '.join(sorted_classes))
+
+        # Save the image with the text
+        output_image_path = os.path.join(output_dir, f"text_{filename}")
+        resized_image.save(output_image_path)
 
         # Write the formatted string to the file
         f.write(output_string + '\n')

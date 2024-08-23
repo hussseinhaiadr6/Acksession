@@ -14,8 +14,8 @@ second_model.conf = 0.45
 second_model.agnostic = True
 
 # Directory paths
-input_dir = './processed_iran'
-output_dir = './output9'
+input_dir = r'C:\Users\HHR6\PycharmProjects\Testing_Pipeline\Acksession-Project/yolov8_compiled_dataset/test/images'
+output_dir = r'./output_Iraq_dataset'
 old_iraq_dir = os.path.join(output_dir, 'OLD_Iraq')
 new_iraq_dir = os.path.join(output_dir, 'New_Iraq')
 iran_dir = os.path.join(output_dir, 'Iran')
@@ -54,7 +54,7 @@ def inference_image(input_path):
     print(df)
     for index, row in df.iterrows():
         class_id = int(row['class'])
-        bbox = [int(row['xmin']), int(row['ymin']), int(row['xmax']), int(row['ymax'])]
+        bbox = [0.95*int(row['xmin']), 0.95*int(row['ymin']), 1.05*int(row['xmax']), 1.05*int(row['ymax'])]
 
         if class_id == 0 or class_id==1:  # Class ID 2 for extending the bounding box
             # Extend the bounding box by a factor of 4
@@ -75,7 +75,7 @@ def inference_image(input_path):
 
             for index, row in second_df.iterrows():
                 class_id = int(row['class'])
-                bbox = [int(row['xmin']), int(row['ymin']), int(row['xmax']), int(row['ymax'])]
+                bbox = [0.95*int(row['xmin']), 0.95*int(row['ymin']), 1.05*int(row['xmax']), 1.05*int(row['ymax'])]
                 if class_id == 0:
                     cropped_image=extended_cropped_image.crop(bbox)
                     save_path=os.path.join(new_iraq_dir,os.path.basename(input_path))
@@ -98,5 +98,5 @@ def inference_directory(input_dir):
         inference_image(os.path.join(input_dir,path))
 
 # Test the function
-inference_image(r"C:\Users\HHR6\PycharmProjects\Testing_Pipeline\Acksession-Project\yolov8_compiled_dataset\test\images\1_jpg.rf.e0d71bfac749526f7f57a7274f7f8f1e.jpg")
-inference_directory(r"C:\Users\HHR6\PycharmProjects\Testing_Pipeline/Acksession-Project/yolov8_compiled_dataset/valid/images")
+#inference_image(r"C:\Users\HHR6\PycharmProjects\Testing_Pipeline\Acksession-Project\yolov8_compiled_dataset\test\images\1_jpg.rf.e0d71bfac749526f7f57a7274f7f8f1e.jpg")
+inference_directory(input_dir)

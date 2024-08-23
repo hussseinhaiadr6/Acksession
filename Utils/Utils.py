@@ -261,8 +261,8 @@ def Optimise_LP(dir,save_dir, apply_adjustments=False, type="English Plate"):
       edge=visualize_canny_edges(image_path)
       visualize_license_plate_boxes(image_path, edge,save_dir, apply_adjustments,type)
 
-dir=r"C:\Users\HHR6\PycharmProjects\AcksessionIntegration\LP_Recognition\Arabic_OCR\Iraq_Districts\images\content\arabic_dataset-3\test\images/"
-save_dir_1=r"../Image_processing/adjusted_Iraq_1"
-save_dir_2=r"../Image_processing/no_adjustment_Iraq_1"
-#Optimise_LP(dir, save_dir_2,type="Arabic Plate")
-Optimise_LP(dir,save_dir_1,apply_adjustments=True,type="Arabic Plate")
+dir=r"C:\Users\HHR6\PycharmProjects\AcksessionIntegration\LP_Detection\Yolo\output_Iraq\OLD_Iraq"
+save_dir_1=r"../Image_processing/adjusted_Iraq_2"
+save_dir_2=r"../Image_processing/no_adjustment_Iraq_2"
+Optimise_LP(dir, save_dir_2,type="Arabic Plate")
+#Optimise_LP(dir,save_dir_1,apply_adjustments=True,type="Arabic Plate")

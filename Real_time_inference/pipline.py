@@ -23,7 +23,7 @@ def initialize_model():
 
 def initialize_tracker():
     return DeepOCSORT(
-        model_weights=Path('osnet_x0_25_msmt17.pt'),  # which ReID model to use
+        model_weights=Path('osnet_x0_25_msmt17.pt'),  # which ReID model to useLP_detection
         device='cuda:0',
         fp16=False,
         max_age=5,
@@ -135,17 +135,20 @@ def pipline(video_path):
         if frame_counter % 4 != 0:
             frame_counter += 1
             continue
+        start_time = time.time()
         resized_frame,track_results=process_frame(frame, model, tracker)
         for track in track_results:
             track_id, current_final_ocr, resized_frame_cropped, current_id, last_id, do_ocr, xmin, ymin= update_text_storage_and_write_results(track,last_id, current_id, current_final_ocr, text_storage, output_dir, resized_frame, frame_counter,resized_frame_cropped,do_ocr)
             print(f"for frame {frame_counter} the id is {track_id} the current id is {current_id} the last id is {last_id}" )
-            cv2.imshow('frame',resized_frame_cropped)
+
 
             if do_ocr:
                 current_final_ocr, do_ocr =perform_ocr(ocr, track_id, text_storage, current_final_ocr, resized_frame_cropped,do_ocr)
             cv2.putText(resized_frame, current_final_ocr, (xmin, ymin - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 255, 0),2)
         tracker.plot_results(resized_frame, show_trajectories=False)
         # break on pressing q or space
+        end_time=time.time()
+        print("Time:", end_time-start_time)
         cv2.imshow('BoxMOT detection', resized_frame)
         key = cv2.waitKey(1) & 0xFF
         if key == ord(' ') or key == ord('q'):
