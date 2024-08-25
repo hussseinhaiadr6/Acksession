@@ -8,13 +8,13 @@ import torch
 # Load your custom model
 model = torch.hub.load(r'C:\Users\HHR6\PycharmProjects\ALPR\yolov5', 'custom', path='../Models/district.pt',
                        source='local')
-model.conf = 0.45  # NMS confidence threshold
+model.conf = 0.25  # NMS confidence threshold
 iou = 0.65  # NMS IoU threshold
 model.agnostic = False
 
 # Directory paths
-input_dir = r'C:\Users\HHR6\PycharmProjects\AcksessionIntegration\LP_Detection\Yolo\output_Iraq\OLD_Iraq'
-output_dir = r'./output_not_benchmark/'
+input_dir = r'C:\Users\HHR6\PycharmProjects\AcksessionIntegration\LP_Recognition\Arabic_OCR\Iraq_Districts\images\content\arabic_dataset-3\test\images'
+output_dir = r'./benchmark_output/'
 
 # Create the output directory if it doesn't exist
 os.makedirs(output_dir, exist_ok=True)

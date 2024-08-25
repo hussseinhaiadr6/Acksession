@@ -1,4 +1,4 @@
-# Ultralytics YOLOv5 🚀, AGPL-3.0 license
+ Ultralytics YOLOv5 🚀, AGPL-3.0 license
 """
 Export a YOLOv5 PyTorch model to other formats. TensorFlow exports authored by https://github.com/zldrobit
 
@@ -98,7 +98,7 @@ class iOSModel(torch.nn.Module):
 
         Args:
             model (torch.nn.Module): The PyTorch model to be adapted for iOS compatibility.
-            im (torch.Tensor): An input tensor representing a batch of images with shape (B, C, H, W).
+            im (torch.Tensor): An input tensor representing a batch of Benchmark_Dataset with shape (B, C, H, W).
 
         Returns:
             None: This method does not return any value.
@@ -335,7 +335,7 @@ def export_onnx(model, im, file, opset, dynamic, simplify, prefix=colorstr("ONNX
 
     output_names = ["output0", "output1"] if isinstance(model, SegmentationModel) else ["output0"]
     if dynamic:
-        dynamic = {"images": {0: "batch", 2: "height", 3: "width"}}  # shape(1,3,640,640)
+        dynamic = {"Benchmark_Dataset": {0: "batch", 2: "height", 3: "width"}}  # shape(1,3,640,640)
         if isinstance(model, SegmentationModel):
             dynamic["output0"] = {0: "batch", 1: "anchors"}  # shape(1,25200,85)
             dynamic["output1"] = {0: "batch", 2: "mask_height", 3: "mask_width"}  # shape(1,32,160,160)
@@ -349,7 +349,7 @@ def export_onnx(model, im, file, opset, dynamic, simplify, prefix=colorstr("ONNX
         verbose=False,
         opset_version=opset,
         do_constant_folding=True,  # WARNING: DNN inference with torch>=1.12 may require do_constant_folding=False
-        input_names=["images"],
+        input_names=["Benchmark_Dataset"],
         output_names=output_names,
         dynamic_axes=dynamic or None,
     )

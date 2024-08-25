@@ -7,13 +7,13 @@ import torch
 # Load your custom model
 model = torch.hub.load(r'C:\Users\HHR6\PycharmProjects\ALPR\yolov5', 'custom', path='../Models/ocr_2.pt',
                        source='local')
-model.conf = 0.38  # NMS confidence threshold
-iou = 0.45  # NMS IoU threshold
-model.agnostic = True
+model.conf = 0.28  # NMS confidence threshold
+iou = 0.75  # NMS IoU threshold
+model.agnostic = False
 
 # Directory paths
-input_dir = r'C:\Users\HHR6\PycharmProjects\AcksessionIntegration\LP_Detection\Yolo\output_Iraq_dataset\OLD_Iraq'
-output_dir = r'./output6/'
+input_dir = r'C:\Users\HHR6\PycharmProjects\AcksessionIntegration\LP_Detection\Yolo\output9\OLD_Iraq'
+output_dir = r'./output7/'
 
 # Create the output directory if it doesn't exist
 os.makedirs(output_dir, exist_ok=True)

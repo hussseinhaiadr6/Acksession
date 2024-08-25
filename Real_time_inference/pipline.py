@@ -12,7 +12,7 @@ import time
 
 
 def initialize_ocr():
-    return PaddleOCR(lang="ch", ocr_version="PP-OCRv4")
+    return PaddleOCR(lang="ch", ocr_version="PP-OCRv4",precision="fp8", det=False)
 
 def initialize_model():
     model = torch.hub.load(r'C:\Users\HHR6\PycharmProjects\ALPR\yolov5', 'custom', path=r'.\LP_detection.onnx', source='local')
@@ -31,7 +31,7 @@ def initialize_tracker():
     )
 
 def process_frame(frame, model, tracker):
-
+    start_time = time.time()
     resize_dim = (640, 640)
     resized_frame = cv2.resize(frame, resize_dim)
 
@@ -46,14 +46,14 @@ def process_frame(frame, model, tracker):
         highest_conf_idx = df['confidence'].idxmax()
         dets = df.loc[highest_conf_idx, ['xmin', 'ymin', 'xmax', 'ymax', 'confidence', 'class']].to_numpy().reshape(1, -1)
         dets = dets.astype(np.float32)
-        time_s=time.time()
+
         track_results = tracker.update(dets, resized_frame)
 
     else:
         dets = np.empty((0, 6), dtype=np.float32)
         track_results = tracker.update(dets, resized_frame)
     end_time = time.time()
-
+    print('time', end_time - start_time)
     return resized_frame, track_results
 
 def update_text_storage_and_write_results(track,last_id, current_id, current_final_ocr, text_storage, output_dir, resized_frame, frame_counter,resized_frame_cropped,do_ocr):
@@ -63,6 +63,8 @@ def update_text_storage_and_write_results(track,last_id, current_id, current_fin
     id_dir = os.path.join(output_dir, str(track_id))
     resized_frame_cropped_path = os.path.join(id_dir, f'{frame_counter}.jpg')
     if track_id != current_id:
+        text_storage[track_id]=[]
+
         last_id=current_id
         do_ocr=True
         if last_id is not None:
@@ -122,7 +124,7 @@ def perform_ocr(ocr, track_id, text_storage, current_final_ocr, resized_frame_cr
                                     break
                         print(f'Current final text for ID {track_id}: {current_final_ocr}')
         end_time = time.time()
-        print(f'perform ocr  time: {end_time - start_time}')
+        print('Total time taken to OCR, in seconds: ', end_time - start_time)
         return current_final_ocr, do_ocr
 
 
@@ -153,7 +155,7 @@ def pipline(video_path):
         resized_frame,track_results=process_frame(frame, model, tracker)
         for track in track_results:
             track_id, current_final_ocr, resized_frame_cropped, current_id, last_id, do_ocr, xmin, ymin= update_text_storage_and_write_results(track,last_id, current_id, current_final_ocr, text_storage, output_dir, resized_frame, frame_counter,resized_frame_cropped,do_ocr)
-            print(f"for frame {frame_counter} the id is {track_id} the current id is {current_id} the last id is {last_id}" )
+            #print(f"for frame {frame_counter} the id is {track_id} the current id is {current_id} the last id is {last_id}" )
 
 
             if do_ocr:

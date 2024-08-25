@@ -11,7 +11,7 @@ model = tf.saved_model.load(model_path)
 infer = model.signatures['serving_default']
 
 # Tensor names based on the provided information
-input_tensor_name = 'images'
+input_tensor_name = 'Benchmark_Dataset'
 output_boxes_tensor_name = 'output_0'
 output_classes_tensor_name = 'output_3'
 output_scores_tensor_name = 'output_2'
@@ -64,14 +64,14 @@ def inference(image_path):
     return highest_score_boxes, highest_predicted_scores, highest_score_labels
 
 
-# Directory containing images
-image_dir = "C:/Users/HHR6/PycharmProjects/Testing_Pipeline/Acksession-Project/yolov8_compiled_dataset/test/images"  # Path to the directory containing images
+# Directory containing Benchmark_Dataset
+image_dir = "C:/Users/HHR6/PycharmProjects/Testing_Pipeline/Acksession-Project/yolov8_compiled_dataset/test/images"  # Path to the directory containing Benchmark_Dataset
 
 # Create the results directory if it doesn't exist
 results_dir = "./results_efficient"
 os.makedirs(results_dir, exist_ok=True)
 
-# Loop through all images in the directory
+# Loop through all Benchmark_Dataset in the directory
 for image_filename in os.listdir(image_dir):
     image_path = os.path.join(image_dir, image_filename)
     print(image_path)

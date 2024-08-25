@@ -79,10 +79,10 @@ model.eval()
 finetuned_classes = ['LP', 'Background', 'English_plate', 'Iraq_plate']
 COLORS = [[0.000, 0.447, 0.741], [0.850, 0.325, 0.098], [0.929, 0.694, 0.125], [0.494, 0.184, 0.556]]
 
-# Directory containing images
+# Directory containing Benchmark_Dataset
 img_dir = 'C:/Users/HHR6/PycharmProjects/Testing_Pipeline/Acksession-Project/yolov8_compiled_dataset/test/images/'
 
-# Directory to save images with rectangles
+# Directory to save Benchmark_Dataset with rectangles
 output_dir = 'C:/Users/HHR6/PycharmProjects/Testing_Pipeline/results_detr'
 
 # Ensure output directory exists, create it if necessary

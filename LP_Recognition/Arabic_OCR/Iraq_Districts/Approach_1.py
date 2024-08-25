@@ -51,7 +51,7 @@ def crop_and_match_image(image_path, ocr):
         match_districts(file_name, ocr, image_path)
 
 def main():
-    ocr = PaddleOCR(lang="ar")
+    ocr = PaddleOCR(lang="ar", det_db_box_thresh=0.2, det_db_thresh=0.1)
 
     #crop_and_match_image("./not_cropped.jpg", ocr)
     root_dir = r"C:\Users\HHR6\PycharmProjects\AcksessionIntegration\LP_Detection\Yolo\output_Iraq\OLD_Iraq/"

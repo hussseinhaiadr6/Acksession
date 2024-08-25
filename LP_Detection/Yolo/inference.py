@@ -98,5 +98,5 @@ def inference_directory(input_dir):
         inference_image(os.path.join(input_dir,path))
 
 # Test the function
-#inference_image(r"C:\Users\HHR6\PycharmProjects\Testing_Pipeline\Acksession-Project\yolov8_compiled_dataset\test\images\1_jpg.rf.e0d71bfac749526f7f57a7274f7f8f1e.jpg")
+#inference_image(r"C:\Users\HHR6\PycharmProjects\Testing_Pipeline\Acksession-Project\yolov8_compiled_dataset\test\Benchmark_Dataset\1_jpg.rf.e0d71bfac749526f7f57a7274f7f8f1e.jpg")
 inference_directory(input_dir)
