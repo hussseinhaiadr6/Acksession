@@ -12,8 +12,8 @@ iou = 0.75  # NMS IoU threshold
 model.agnostic = False
 
 # Directory paths
-input_dir = r'C:\Users\HHR6\PycharmProjects\AcksessionIntegration\LP_Detection\Yolo\output9\OLD_Iraq'
-output_dir = r'./output7/'
+input_dir = r'C:\Users\HHR6\PycharmProjects\AcksessionIntegration\LP_Detection\Yolo\output_Train\OLD_Iraq'
+output_dir = r'./output8/'
 
 # Create the output directory if it doesn't exist
 os.makedirs(output_dir, exist_ok=True)
