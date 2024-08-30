@@ -6,15 +6,15 @@ from ultralytics import YOLO
 import torch
 
 # Load your custom model
-model = torch.hub.load(r'C:\Users\HHR6\PycharmProjects\ALPR\yolov5', 'custom', path='./farsi_ocr.pt',
+model = torch.hub.load(r'C:\Users\HHR6\PycharmProjects\ALPR\yolov5', 'custom', path=r'C:\Users\HHR6\PycharmProjects\AcksessionIntegration\LP_Recognition\Farsi_OCR\farsi_ocr.onnx',
                        source='local')
 model.conf = 0.45  # NMS confidence threshold
 iou = 0.65  # NMS IoU threshold
-model.agnostic = False
+model.agnostic = True
 
 # Directory paths
-input_dir = r'C:\Users\HHR6\PycharmProjects\AcksessionIntegration\LP_Detection\Yolo\output_Iraq\NEW_Iraq'
-output_dir = r'./output_newIraq/'
+input_dir = r'C:\Users\HHR6\PycharmProjects\AcksessionIntegration\LP_Detection\Yolo\output_Iran_dataset_2_classfier\Iran'
+output_dir = r'./output_Show_case/'
 
 # Create the output directory if it doesn't exist
 os.makedirs(output_dir, exist_ok=True)
@@ -42,42 +42,77 @@ def draw_text_on_image(image, text, font_size=40):  # Increase font_size for big
 
 # Save the formatted strings to a text file
 output_file_path = os.path.join(output_dir, 'arabic_ocr-results.txt')
-with open(output_file_path, 'w') as f:
-    for filename in os.listdir(input_dir):
-        input_path = os.path.join(input_dir, filename)
-        print(input_path)
 
-        # Resize the image
-        resized_image = resize_image(input_path)
 
-        # Measure inference time
-        start_time = time.time()
+def inference_dir(input_path, output_path):
+    with open(output_file_path, 'w') as f:
+        for filename in os.listdir(input_dir):
+            input_path = os.path.join(input_dir, filename)
+            print(input_path)
 
-        # Run inference on the resized image
-        results = model(resized_image)
+            # Resize the image
+            resized_image = resize_image(input_path)
 
-        end_time = time.time()
-        inference_time = end_time - start_time
+            # Measure inference time
+            start_time = time.time()
 
-        # Convert results to pandas DataFrame
-        df = results.pandas().xyxy[0]
+            # Run inference on the resized image
+            results = model(resized_image)
 
-        # Sort detections from right to left (based on xmax in descending order)
-        df_sorted = df.sort_values(by='xmax', ascending=True)
+            end_time = time.time()
+            inference_time = end_time - start_time
+            print("Inference time: ", inference_time)
+            # Convert results to pandas DataFrame
+            df = results.pandas().xyxy[0]
 
-        # Get the class names in sorted order
-        sorted_classes = df_sorted['name'].tolist()
-        print(sorted_classes)
+            # Sort detections from right to left (based on xmax in descending order)
+            df_sorted = df.sort_values(by='xmax', ascending=True)
 
-        # Create the formatted string
-        output_string = f"{filename} {' '.join(sorted_classes)} Inference time: {inference_time:.2f} seconds"
+            # Get the class names in sorted order
+            sorted_confidence = df_sorted['confidence'].tolist()
+            print(sorted_confidence)
+            sorted_classes = df_sorted['name'].tolist()
+            print(sorted_classes)
 
-        # Draw text on the resized image
-        draw_text_on_image(resized_image, ' '.join(sorted_classes))
+            # Create the formatted string
+            output_string = f"{filename} {' '.join(sorted_classes)} Inference time: {inference_time:.2f} seconds"
 
-        # Save the image with the text
-        output_image_path = os.path.join(output_dir, f"text_{filename}")
-        resized_image.save(output_image_path)
+            # Draw text on the resized image
+            draw_text_on_image(resized_image, ' '.join(sorted_classes))
 
-        # Write the formatted string to the file
-        f.write(output_string + '\n')
+            # Save the image with the text
+            output_image_path = os.path.join(output_dir, f"text_{filename}")
+            resized_image.save(output_image_path)
+
+            # Write the formatted string to the file
+            f.write(output_string + '\n')
+
+
+def inference_image_farsi(input_path):
+    with open(output_file_path, 'w') as f:
+            # Resize the image
+            resized_image = resize_image(input_path)
+
+            # Measure inference time
+            start_time = time.time()
+
+            # Run inference on the resized image
+            results = model(resized_image)
+
+            end_time = time.time()
+            inference_time = end_time - start_time
+            print("Inference time: ", inference_time)
+            # Convert results to pandas DataFrame
+            df = results.pandas().xyxy[0]
+
+            # Sort detections from right to left (based on xmax in descending order)
+            df_sorted = df.sort_values(by='xmax', ascending=True)
+
+            # Get the class names in sorted order
+            sorted_confidence = df_sorted['confidence'].tolist()
+            print(sorted_confidence)
+            sorted_classes = df_sorted['name'].tolist()
+            print(sorted_classes)
+            return ' '.join(sorted_classes)
+
+#inference_image_farsi(r"C:\Users\HHR6\PycharmProjects\AcksessionIntegration\LP_Detection\Yolo\frame_temp.jpg")

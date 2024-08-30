@@ -6,15 +6,15 @@ from ultralytics import YOLO
 import torch
 
 # Load your custom model
-model = torch.hub.load(r'C:\Users\HHR6\PycharmProjects\ALPR\yolov5', 'custom', path='../Models/district.pt',
+model = torch.hub.load(r'C:\Users\HHR6\PycharmProjects\ALPR\yolov5', 'custom', path='../Models/district_ocr.pt',
                        source='local')
 model.conf = 0.25  # NMS confidence threshold
 iou = 0.65  # NMS IoU threshold
 model.agnostic = False
 
 # Directory paths
-input_dir = r'C:\Users\HHR6\PycharmProjects\AcksessionIntegration\LP_Recognition\Arabic_OCR\Iraq_Districts\images\content\arabic_dataset-3\test\images'
-output_dir = r'./benchmark_output/'
+input_dir = r'C:\Users\HHR6\PycharmProjects\AcksessionIntegration\LP_Detection\Yolo\output_Iraq_dataset_valid\OLD_Iraq'
+output_dir = r'./IRAQ_valid_1/'
 
 # Create the output directory if it doesn't exist
 os.makedirs(output_dir, exist_ok=True)

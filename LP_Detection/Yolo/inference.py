@@ -1,8 +1,12 @@
 import os
+import time
+
 from PIL import Image
 import torch
 import cv2
 import numpy as np
+from LP_Recognition.Farsi_OCR.OCR import inference_image_farsi
+from LP_Recognition.Arabic_OCR.Iraq_Number_Letters.OCR import inference_image_iraqi
 # Load your custom model
 model = torch.hub.load(r'C:\Users\HHR6\PycharmProjects\Testing_Pipeline\yolov5', 'custom',force_reload=True, path='./Models/IranLPDetection3.onnx',source="local")
 model.conf = 0.45  # NMS confidence threshold
@@ -49,6 +53,7 @@ def extend_bbox(bbox, image_size, factor=4):
 
 # Function for inference
 def inference_image(input_path):
+    start_time = time.time()
     resized_image = resize_image(input_path)
     results = model(resized_image)
     df = results.pandas().xyxy[0]
@@ -81,12 +86,16 @@ def inference_image(input_path):
                     save_path=os.path.join(new_iraq_dir,os.path.basename(input_path))
                     cropped_image.save(save_path)
                     type="New_Iraq"
+                    end = time.time()
+                    print("Time taken ", end - start_time)
                     return bbox_1, type,resized_image
                 else:
                     cropped_image = extended_cropped_image.crop(bbox)
                     save_path = os.path.join(iran_dir, os.path.basename(input_path))
                     cropped_image.save(save_path)
                     type="Iran"
+                    end = time.time()
+                    print("Time taken ", end - start_time)
                     return bbox_1, type,resized_image
 
         else:
@@ -95,12 +104,18 @@ def inference_image(input_path):
             save_path = os.path.join(old_iraq_dir, os.path.basename(input_path))
             cropped_image.save(save_path)
             type="Old_Iraq"
+            end=time.time()
+            print("Time taken ",end-start_time)
             return bbox_1,type,resized_image
+
     return [0,0,1,1],"None",resized_image
 def inference_directory(input_dir):
     paths=os.listdir(input_dir)
     for path in paths:
+        start=time.time()
         inference_image(os.path.join(input_dir,path))
+        end=time.time()
+
 
 def inference_video(video_path):
     cap = cv2.VideoCapture(video_path)
@@ -110,6 +125,9 @@ def inference_video(video_path):
         ret, frame = cap.read()
         if not ret:
             break
+        if frame_counter<550:
+            frame_counter+=1
+            continue
         if frame_counter % 2 != 0:
             print(frame_counter)
             frame_counter += 1
@@ -130,6 +148,13 @@ def inference_video(video_path):
         label = f"Class {class_1}"
         cv2.putText(resize_image, label, (int(bbox[0]), int(bbox[1] - 10)), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
         # Press 'q' to quit the video display
+        resize_image_1=resize_image[int(bbox[1]):int(bbox[3]),int(bbox[0]):int(bbox[2])]
+        if class_1=="Old_Iraq":
+            im = Image.fromarray(resize_image_1)
+            im.save("./frame_temp.jpg")
+            txt=inference_image_iraqi("./frame_temp.jpg")
+            cv2.putText(resize_image, txt, (int(bbox[0]), int(bbox[1] - 25)), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0),
+                        2)
         cv2.imshow('Processed Frame', resize_image)
         frame_counter+=1
         print(frame_counter)
@@ -141,9 +166,9 @@ def inference_video(video_path):
     cv2.destroyAllWindows()
 
 # Example usage
-input_video_path = r'C:\Users\HHR6\PycharmProjects\Testing_Pipeline\Driving Tour in the Erbil Streets - kurdistan region (Part 1).mp4'
-inference_video(input_video_path)
+input_video_path = r'C:\Users\HHR6\PycharmProjects\Testing_Pipeline\videoplayback (2).mp4'
+#inference_video(input_video_path)
 
-"""# Test the function
-#inference_image(r"C:/Users\HHR6\PycharmProjects\Testing_Pipeline\Acksession-Project\yolov8_compiled_dataset/test\Benchmark_Dataset/1_jpg.rf.e0d71bfac749526f7f57a7274f7f8f1e.jpg")
-inference_directory(input_dir)"""
+# Test the function
+#inference_image(r"C:/Users\HHR6\PycharmProjects\Testing_Pipeline\Acksession-Project\yolov8_compiled_dataset/test\Benchmark_Dataset/1_jpg.rf.e0d71bfac749526f7f57a7274f7f8f1e.jpg")"""
+inference_directory(input_dir)

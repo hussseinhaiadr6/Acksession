@@ -1,24 +1,151 @@
-13_jpg.rf.1665f839ba5e9b114f2e32a62ddd2005.jpg 9 9 9 1 9 5 Inference time: 0.24 seconds
-14_jpg.rf.aaa3db98a8f0e3c867c91b2ec427bc8c.jpg 1 Inference time: 0.21 seconds
-14_jpg.rf.f1c081d395119dc3a3b80a247afbffc1.jpg  Inference time: 0.22 seconds
-15_png.rf.0976cfbb500a2152e1a3fc0c1a4e5857.jpg 1 6 5 4 Inference time: 0.22 seconds
-1_jpg.rf.e0d71bfac749526f7f57a7274f7f8f1e.jpg 9 lam 9 5 Inference time: 0.22 seconds
-27_png.rf.b0b8716a131c0677226f471ab3678c72.jpg 9 5 5 5 9 Inference time: 0.23 seconds
-417364312_1068529891141645_6625828181421494034_n_jpg.rf.f3d71e0a025ad3d1237b0a7c137fb060.jpg 9 5 9 5 9 Inference time: 0.22 seconds
-417570965_1736849176812307_1723590590995587808_n_jpg.rf.dedfea8f854ec3a3addb7b059de3fd53.jpg 5 7 9 Inference time: 0.23 seconds
-419173054_777935504164308_496264249723982035_n_jpg.rf.7fe782987e9a6766473a034b8eb1b156.jpg 9 9 5 5 9 9 Inference time: 0.24 seconds
-419241033_2209276712612167_308946357964497821_n_jpg.rf.d8c0ae777f53338fc56caa1c81550fb6.jpg 9 9 9 1 9 5 9 Inference time: 0.25 seconds
-419420193_2608644655967002_1421768417040176403_n_jpg.rf.e39b11b7b14e404ebe939432f104b554.jpg 9 9 5 5 5 Inference time: 0.25 seconds
-427649041_308812638842663_5019511625679107493_n_jpg.rf.9998e3a09980c149e92cd23bf3219022.jpg 9 5 1 Inference time: 0.23 seconds
-427667093_1133225274664600_1272288515667003555_n_jpg.rf.fe8ee31a87b81f2b3c76095f0dfec927.jpg 1 5 5 9 Inference time: 0.22 seconds
-428479596_2083530045364234_3401595779526985803_n_jpg.rf.e04cce7bf1401b66fa7418d2f531d39b.jpg 9 5 5 5 5 5 Inference time: 0.24 seconds
-57_jpg.rf.4d70900ecf4c5af1e6db08e7fc1fc015.jpg 5 5 5 Inference time: 0.24 seconds
-58_jpg.rf.0f7e465b5f8d3acd39e43dcadb31b7f0.jpg ta 9 Inference time: 0.26 seconds
-59_jpg.rf.5a62af5074f6f4d20136f24a27ed931a.jpg 1 9 Inference time: 0.73 seconds
-5_jpg.rf.08e989a458736c430ac8684895d3050f.jpg 1 1 6 4 Inference time: 0.70 seconds
-66_jpg.rf.47032f2c1c7d2a1bb2cbd7b9176df200.jpg 9 Inference time: 0.28 seconds
-69-3-_jpg.rf.2bd0216bca0355f5de78929ab9e42ced.jpg 9 lam 1 5 5 lam Inference time: 0.37 seconds
-70-1-_jpg.rf.d441ae9ef94c029ffcbfe74b95b8f4de.jpg 9 9 9 5 9 Inference time: 0.25 seconds
-70-13-_jpg.rf.155d171cdc72c0ac0e035e1b926569a9.jpg 5 6 Inference time: 0.27 seconds
-70-13-_jpg.rf.fa2aea14b2828cc01a9b67c6c3cea43a.jpg 7 Inference time: 0.27 seconds
-70-3-_jpg.rf.2a17adf768ca0f94b5838147ddcf6a7a.jpg 5 9 5 5 5 5 Inference time: 0.22 seconds
+day_00004.jpg 2 8 1 5 Inference time: 0.11 seconds
+day_00011.jpg 7 8 sad 4 2 6 1 Inference time: 0.10 seconds
+day_00018.jpg 7 3 be 3 1 5 3 6 Inference time: 0.10 seconds
+day_00033.jpg 3 9 sin 2 9 4 4 9 Inference time: 0.10 seconds
+day_00036.jpg 4 2 be 3 7 1 1 6 Inference time: 0.10 seconds
+day_00041.jpg 5 6 ein 5 1 1 6 3 Inference time: 0.10 seconds
+day_00043.jpg 4 8 lam 5 7 2 1 4 Inference time: 0.09 seconds
+day_00045.jpg 3 3 dal 6 4 9 5 8 Inference time: 0.09 seconds
+day_00047.jpg 5 4 lam 1 1 7 1 6 Inference time: 0.09 seconds
+day_00049.jpg 2 1 ta 6 5 2 4 7 Inference time: 0.10 seconds
+day_00053.jpg 2 1 dal 3 8 9 8 8 Inference time: 0.09 seconds
+day_00054.jpg 4 6 dal 4 8 7 6 3 Inference time: 0.09 seconds
+day_00058.jpg 1 4 sad 8 5 5 3 7 Inference time: 0.09 seconds
+day_00065.jpg 4 2 jim 8 8 1 1 0 Inference time: 0.11 seconds
+day_00070.jpg 4 4 ye 5 6 5 6 3 Inference time: 0.09 seconds
+day_00074.jpg 9 4 sin 7 6 9 4 7 Inference time: 0.09 seconds
+day_00090.jpg 7 8 sad 7 4 Inference time: 0.09 seconds
+day_00092.jpg 3 5 be 5 4 7 8 3 Inference time: 0.10 seconds
+day_00101.jpg 7 7 nun 1 2 2 3 3 Inference time: 0.08 seconds
+day_00146.jpg 1 5 Inference time: 0.09 seconds
+day_00153.jpg 9 3 3 6 Inference time: 0.10 seconds
+day_00158.jpg 9 2 sad 6 9 4 4 7 Inference time: 0.10 seconds
+day_00164.jpg 3 7 ta 6 6 5 6 4 Inference time: 0.10 seconds
+day_00169.jpg 3 3 dal 6 4 9 5 8 Inference time: 0.11 seconds
+day_00171.jpg 6 1 qaf 4 6 6 1 9 Inference time: 0.11 seconds
+day_00221.jpg 7 3 ein 1 4 1 6 8 Inference time: 0.09 seconds
+day_00229.jpg 4 8 dal 7 4 1 7 8 Inference time: 0.08 seconds
+day_00254.jpg 8 3 ta 4 6 2 1 1 Inference time: 0.10 seconds
+day_00265.jpg 6 7 qaf 4 2 2 6 3 Inference time: 0.09 seconds
+day_00278.jpg 3 4 be 2 6 8 9 3 Inference time: 0.10 seconds
+day_00311.jpg 7 5 6 8 7 1 0 Inference time: 0.10 seconds
+day_00313.jpg 7 3 vav 1 6 6 5 5 Inference time: 0.07 seconds
+day_00323.jpg 3 5 ye 3 6 2 1 5 Inference time: 0.10 seconds
+day_00337.jpg 9 1 jim 7 1 6 9 9 Inference time: 0.09 seconds
+day_00346.jpg 4 6 qaf 8 8 1 3 8 Inference time: 0.09 seconds
+day_00350.jpg 2 9 dal 1 3 7 6 3 Inference time: 0.10 seconds
+day_00354.jpg 5 9 he 7 1 3 6 3 Inference time: 0.10 seconds
+day_00385.jpg 7 4 mim 8 3 6 2 4 Inference time: 0.10 seconds
+day_00389.jpg 8 1 he 9 9 5 6 3 Inference time: 0.10 seconds
+day_00398.jpg 1 2 qaf 4 4 5 9 3 Inference time: 0.10 seconds
+day_00403.jpg 9 8 sad 4 3 9 9 9 Inference time: 0.08 seconds
+day_00421.jpg 7 8 ta 3 7 3 8 8 Inference time: 0.10 seconds
+day_00455.jpg 2 8 mim 7 6 6 1 6 Inference time: 0.09 seconds
+day_00465.jpg 3 9 jim 9 6 7 5 8 Inference time: 0.10 seconds
+day_00476.jpg 3 2 sad 7 9 8 8 7 Inference time: 0.09 seconds
+day_00478.jpg 2 7 ta 8 3 1 1 1 Inference time: 0.10 seconds
+day_00504.jpg 7 6 vav 7 3 7 1 Inference time: 0.10 seconds
+day_00519.jpg 1 2 ta 2 5 3 4 7 Inference time: 0.10 seconds
+day_00543.jpg 3 5 ta 6 7 1 4 7 Inference time: 0.09 seconds
+day_00560.jpg 6 2 be 8 1 9 9 2 Inference time: 0.10 seconds
+day_00571.jpg 5 8 ye 7 6 2 6 3 Inference time: 0.10 seconds
+day_00583.jpg 5 8 qaf 7 8 6 6 3 Inference time: 0.10 seconds
+day_00584.jpg 6 3 be 1 5 5 9 3 Inference time: 0.11 seconds
+day_00588.jpg 9 ye 1 2 2 5 Inference time: 0.09 seconds
+day_00595.jpg 8 1 vav 9 6 2 4 4 Inference time: 0.09 seconds
+day_00612.jpg 1 9 sin 8 5 2 4 4 Inference time: 0.10 seconds
+day_00613.jpg 2 6 he 5 8 3 6 3 Inference time: 0.10 seconds
+day_00627.jpg 4 7 qaf 8 6 8 5 3 Inference time: 0.10 seconds
+day_00628.jpg 9 4 ein 5 8 4 2 2 Inference time: 0.08 seconds
+day_00631.jpg 1 5 lam 1 4 3 6 3 Inference time: 0.11 seconds
+day_00641.jpg 6 8 he 9 5 9 7 7 Inference time: 0.09 seconds
+day_00662.jpg 1 8 mim 7 3 2 8 3 Inference time: 0.09 seconds
+day_00676.jpg 5 6 vav 5 3 6 1 4 Inference time: 0.10 seconds
+day_00695.jpg 8 vav 6 8 3 1 0 Inference time: 0.11 seconds
+day_00699.jpg 9 2 ta 4 3 9 1 9 Inference time: 0.10 seconds
+day_00700.jpg 8 7 mim 4 2 4 1 7 Inference time: 0.10 seconds
+day_00705.jpg 4 2 sin 6 8 8 6 3 Inference time: 0.10 seconds
+day_00707.jpg 3 7 sin 1 1 7 5 5 Inference time: 0.09 seconds
+day_00709.jpg 8 2 nun 8 2 2 1 2 Inference time: 0.10 seconds
+day_00717.jpg 9 5 ein 6 6 7 2 2 Inference time: 0.10 seconds
+day_00726.jpg 1 6 he 6 2 4 3 4 Inference time: 0.09 seconds
+day_00747.jpg 1 5 ta 3 8 2 1 7 Inference time: 0.10 seconds
+day_00757.jpg 2 1 te 5 2 7 1 1 Inference time: 0.09 seconds
+day_00765.jpg 1 8 sin 9 2 1 1 1 Inference time: 0.09 seconds
+day_00768.jpg 2 6 vav 4 1 8 1 2 Inference time: 0.08 seconds
+day_00777.jpg 9 5 9 8 6 5 6 Inference time: 0.10 seconds
+day_00828.jpg 3 2 jim 7 7 4 1 0 Inference time: 0.11 seconds
+day_00840.jpg 2 9 mim 7 5 3 9 8 Inference time: 0.10 seconds
+day_00861.jpg 3 2 mim 1 8 2 9 8 Inference time: 0.12 seconds
+day_00873.jpg 1 7 mim 1 2 6 9 8 Inference time: 0.10 seconds
+day_00875.jpg 2 2 mim 9 8 2 6 6 Inference time: 0.12 seconds
+day_00876.jpg 1 8 mim 6 1 1 9 8 Inference time: 0.11 seconds
+day_00883.jpg 2 3 mim 7 2 2 9 8 Inference time: 0.11 seconds
+day_00885.jpg 3 5 ta 9 5 8 1 0 Inference time: 0.10 seconds
+day_00888.jpg 1 3 be 1 4 6 9 8 Inference time: 0.10 seconds
+day_00896.jpg 2 4 qaf 7 1 7 1 1 Inference time: 0.10 seconds
+day_00898.jpg 6 4 qaf 2 4 1 1 6 Inference time: 0.11 seconds
+day_00902.jpg 4 7 nun 8 8 2 1 4 Inference time: 0.11 seconds
+day_00910.jpg 1 8 ein 3 8 4 9 8 Inference time: 0.09 seconds
+day_00925.jpg 1 1 ta 1 3 1 1 6 Inference time: 0.11 seconds
+day_00927.jpg 3 8 sin 6 6 4 1 3 Inference time: 0.12 seconds
+day_00938.jpg 2 8 mim 9 7 6 9 8 Inference time: 0.11 seconds
+day_00950.jpg 2 6 mim 2 6 3 9 8 Inference time: 0.09 seconds
+day_00964.jpg 4 3 nun 1 1 4 1 1 Inference time: 0.12 seconds
+day_00975.jpg 2 1 4 3 4 8 Inference time: 0.11 seconds
+day_00984.jpg 1 9 lam 3 3 7 9 8 Inference time: 0.11 seconds
+day_00985.jpg 2 9 mim 9 3 6 9 8 Inference time: 0.12 seconds
+day_00998.jpg  Inference time: 0.11 seconds
+day_01006.jpg 1 Inference time: 0.10 seconds
+day_01024.jpg 7 6 dal 8 1 8 9 9 Inference time: 0.11 seconds
+day_01026.jpg 3 5 vav 7 5 5 3 4 Inference time: 0.12 seconds
+day_01027.jpg 4 2 jim 7 6 7 5 5 Inference time: 0.11 seconds
+day_01029.jpg 8 1 be 5 2 1 9 8 Inference time: 0.11 seconds
+day_01041.jpg 7 5 dal 8 9 7 2 2 Inference time: 0.12 seconds
+day_01052.jpg  Inference time: 0.11 seconds
+day_01094.jpg 6 9 sin 8 5 5 1 6 Inference time: 0.12 seconds
+day_01124.jpg 9 8 he 4 3 5 5 Inference time: 0.12 seconds
+day_01125.jpg 3 2 mim 4 6 9 9 8 Inference time: 0.09 seconds
+day_01126.jpg 1 7 qaf 9 6 2 9 8 Inference time: 0.10 seconds
+day_01132.jpg 8 9 nun 1 1 9 6 6 Inference time: 0.11 seconds
+day_01149.jpg 9 1 ein 7 3 8 1 9 Inference time: 0.11 seconds
+day_01179.jpg 3 4 lam 2 2 1 1 6 Inference time: 0.12 seconds
+day_01187.jpg 8 1 jim 4 6 5 9 8 Inference time: 0.11 seconds
+day_01197.jpg 1 7 mim 9 1 8 9 8 Inference time: 0.12 seconds
+day_01198.jpg 2 1 dal 3 8 6 6 Inference time: 0.12 seconds
+day_01200.jpg 1 2 6 6 1 1 6 Inference time: 0.15 seconds
+day_01211.jpg 3 2 mim 6 5 8 9 8 Inference time: 0.11 seconds
+day_01224.jpg 1 9 3 5 9 9 8 Inference time: 0.11 seconds
+day_01230.jpg 8 7 be 9 3 9 6 6 Inference time: 0.12 seconds
+day_01247.jpg 9 6 dal 9 3 5 5 5 Inference time: 0.12 seconds
+day_01251.jpg 8 9 he 9 9 8 1 0 Inference time: 0.11 seconds
+day_01274.jpg 2 7 mim 1 2 2 9 8 Inference time: 0.12 seconds
+day_01295.jpg 2 1 mim 4 3 2 9 8 Inference time: 0.11 seconds
+day_01300.jpg 9 5 sad 8 6 9 7 7 Inference time: 0.11 seconds
+day_01304.jpg 8 9 6 Inference time: 0.13 seconds
+day_01307.jpg 2 6 sad 9 6 9 9 Inference time: 0.12 seconds
+day_01321.jpg 4 5 ta 8 5 5 Inference time: 0.11 seconds
+day_01334.jpg 5 2 sin 7 5 8 8 4 Inference time: 0.10 seconds
+day_01339.jpg 5 7 ta 1 8 2 7 7 Inference time: 0.10 seconds
+day_01347.jpg 7 5 sad 2 8 8 1 6 Inference time: 0.12 seconds
+day_01371.jpg 6 5 be 4 3 3 9 8 Inference time: 0.11 seconds
+day_01391.jpg 3 1 mim 8 3 4 9 8 Inference time: 0.11 seconds
+day_01398.jpg 9 1 lam 4 7 7 1 6 Inference time: 0.11 seconds
+day_01414.jpg 2 1 mim 2 8 3 9 8 Inference time: 0.09 seconds
+day_01444.jpg 2 5 ein 9 6 7 9 8 Inference time: 0.12 seconds
+day_01450.jpg 6 2 be 9 8 7 7 7 Inference time: 0.11 seconds
+day_01458.jpg 1 4 sin 5 8 9 1 0 Inference time: 0.12 seconds
+day_01463.jpg 7 5 be 8 3 6 8 8 Inference time: 0.12 seconds
+day_01467.jpg 2 6 mim 5 2 2 9 8 Inference time: 0.12 seconds
+day_01469.jpg 6 1 nun 2 4 5 3 3 Inference time: 0.13 seconds
+day_01486.jpg 6 7 sin 5 9 4 1 9 Inference time: 0.12 seconds
+day_01495.jpg 6 6 sin 9 7 7 1 6 Inference time: 0.13 seconds
+day_01503.jpg  Inference time: 0.12 seconds
+day_01510.jpg 1 4 nun 9 5 6 5 7 Inference time: 0.12 seconds
+day_01511.jpg 5 7 mim 9 5 8 1 6 Inference time: 0.12 seconds
+day_01515.jpg 4 5 he 3 4 1 1 0 Inference time: 0.11 seconds
+day_01526.jpg 2 9 mim 8 6 7 9 8 Inference time: 0.10 seconds
+day_01529.jpg  Inference time: 0.12 seconds
+day_01543.jpg 5 1 dal 1 2 4 1 9 Inference time: 0.10 seconds
+day_01566.jpg 2 6 te 9 2 1 3 3 Inference time: 0.11 seconds
+day_01569.jpg 5 2 5 7 7 9 8 Inference time: 0.12 seconds

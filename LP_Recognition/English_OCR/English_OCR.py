@@ -1,7 +1,7 @@
 from paddleocr import PaddleOCR, draw_ocr
 from PIL import Image, ImageDraw, ImageFont
 import os
-
+import time
 # Initialize OCR
 ocr = PaddleOCR(lang="ch", ocr_version="PP-OCRv4", use_angle_cls=True)
 
@@ -12,17 +12,19 @@ if not os.path.exists(output_dir):
 
 # Define font (adjust the path to the font file as needed)
 font_path = "arial.ttf"  # Change this to your font file path if needed
-font_size = 25
+font_size = 15
 
 for filename in os.listdir(
         r"C:\Users\HHR6\PycharmProjects\AcksessionIntegration\Image_processing\adjustment_New_Iraq/"):
     img_file = os.path.join(r"C:\Users\HHR6\PycharmProjects\AcksessionIntegration\Image_processing\adjustment_New_Iraq",
                             filename)
+    start= time.time()
 
     # Perform OCR on the image
     result = ocr.ocr(img_file)
     print(f"Processing file: {img_file}")
-
+    end= time.time()
+    print("time taken:", end - start)
     # Load the image
     image = Image.open(img_file)
     draw = ImageDraw.Draw(image)
