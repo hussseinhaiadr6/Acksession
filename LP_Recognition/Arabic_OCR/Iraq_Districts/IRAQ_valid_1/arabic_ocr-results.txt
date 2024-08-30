@@ -1,194 +1,194 @@
-002_jpg.rf.ed34f2ec0ceabbe9eb3d930dacf87c93.jpg Dohuk Inference time: 0.24 seconds
-005_jpg.rf.261f9d1a6932d22ee0b518146cc2d579.jpg Erbil Inference time: 0.26 seconds
-007_jpg.rf.1fd838d8c0f05987da2a7cc862ac121f.jpg Private Inference time: 0.37 seconds
-010_jpg.rf.6547c9140aea1bfabf4a35f9a2f69b1c.jpg Private Baghdad Inference time: 0.18 seconds
-019_jpg.rf.71a99b19138f45f9bf98de9c1fd6ad6b.jpg Erbil Inference time: 0.17 seconds
-028_jpg.rf.b7eb2ec1872dc6b6d59efb2d32e89b50.jpg Private Baghdad Inference time: 0.70 seconds
-029_jpg.rf.deae88d8e4c2bace144ce2dd46bdda80.jpg Private Baghdad Inference time: 0.36 seconds
-040_jpg.rf.eb5146461699de80f152795d746879bc.jpg Private Baghdad Inference time: 0.63 seconds
-044_jpg.rf.fe5bb9ace25c0f046079acffc4660fcd.jpg Erbil Inference time: 0.48 seconds
-046_jpg.rf.294c7058b9165967f76fdbf646bc0a96.jpg Erbil Inference time: 0.40 seconds
-048_jpg.rf.de5cd9e5ba121f358cac2486e98aada6.jpg Private Baghdad Inference time: 0.79 seconds
-052_jpg.rf.11ba8a37b05dd588ed74f400b620bf5b.jpg Private Baghdad Inference time: 0.31 seconds
-053_jpg.rf.aa02bf2b1624eb871b7693449983a2cc.jpg Erbil Inference time: 0.52 seconds
-055_jpg.rf.bdae7c18e00d2cbff7afd710f3ea3260.jpg Erbil Inference time: 0.34 seconds
-063_jpg.rf.de5777204597d5c7fb12e3c3c8e53d27.jpg Erbil Inference time: 0.50 seconds
-076_jpg.rf.7011d057b8f84a7ce642f9ab1cec3a3f.jpg  Inference time: 0.60 seconds
-077_jpg.rf.b5eda1df835e33fb9b4ae6e6ae8a2cc1.jpg Private Baghdad Inference time: 0.43 seconds
-082_jpg.rf.bcf0fb940348903981bfe09ad69d835a.jpg Suleymaniyah Inference time: 0.49 seconds
-084_jpg.rf.a940a3fd848854a0c15b3c8e6f822077.jpg Erbil Inference time: 0.47 seconds
-086_jpg.rf.7884befe1928e813f8e85bea8234a265.jpg Wasit Qadisiyyah Inference time: 0.26 seconds
-088_jpg.rf.a80a280db624109b70f4499162348e8e.jpg Baghdad Inference time: 0.55 seconds
+002_jpg.rf.ed34f2ec0ceabbe9eb3d930dacf87c93.jpg Dohuk Inference time: 0.22 seconds
+005_jpg.rf.261f9d1a6932d22ee0b518146cc2d579.jpg Erbil Inference time: 0.22 seconds
+007_jpg.rf.1fd838d8c0f05987da2a7cc862ac121f.jpg Private Inference time: 0.21 seconds
+010_jpg.rf.6547c9140aea1bfabf4a35f9a2f69b1c.jpg Private Baghdad Inference time: 0.21 seconds
+019_jpg.rf.71a99b19138f45f9bf98de9c1fd6ad6b.jpg Erbil Inference time: 0.21 seconds
+028_jpg.rf.b7eb2ec1872dc6b6d59efb2d32e89b50.jpg Private Baghdad Inference time: 0.20 seconds
+029_jpg.rf.deae88d8e4c2bace144ce2dd46bdda80.jpg Private Baghdad Inference time: 0.20 seconds
+040_jpg.rf.eb5146461699de80f152795d746879bc.jpg Private Baghdad Inference time: 0.20 seconds
+044_jpg.rf.fe5bb9ace25c0f046079acffc4660fcd.jpg Erbil Inference time: 0.20 seconds
+046_jpg.rf.294c7058b9165967f76fdbf646bc0a96.jpg Erbil Inference time: 0.21 seconds
+048_jpg.rf.de5cd9e5ba121f358cac2486e98aada6.jpg Private Baghdad Inference time: 0.23 seconds
+052_jpg.rf.11ba8a37b05dd588ed74f400b620bf5b.jpg Private Baghdad Inference time: 0.23 seconds
+053_jpg.rf.aa02bf2b1624eb871b7693449983a2cc.jpg Erbil Inference time: 0.22 seconds
+055_jpg.rf.bdae7c18e00d2cbff7afd710f3ea3260.jpg Erbil Inference time: 0.22 seconds
+063_jpg.rf.de5777204597d5c7fb12e3c3c8e53d27.jpg Erbil Inference time: 0.22 seconds
+076_jpg.rf.7011d057b8f84a7ce642f9ab1cec3a3f.jpg  Inference time: 0.22 seconds
+077_jpg.rf.b5eda1df835e33fb9b4ae6e6ae8a2cc1.jpg Private Baghdad Inference time: 0.23 seconds
+082_jpg.rf.bcf0fb940348903981bfe09ad69d835a.jpg Suleymaniyah Inference time: 0.22 seconds
+084_jpg.rf.a940a3fd848854a0c15b3c8e6f822077.jpg Erbil Inference time: 0.20 seconds
+086_jpg.rf.7884befe1928e813f8e85bea8234a265.jpg Wasit Qadisiyyah Inference time: 0.21 seconds
+088_jpg.rf.a80a280db624109b70f4499162348e8e.jpg Baghdad Inference time: 0.25 seconds
 089_jpg.rf.747c54f6551e55f13abb2ef8ba336acc.jpg Salah Al-Din Qadisiyyah Inference time: 0.24 seconds
-092_jpg.rf.0eee1b78e40367a43d8d9047a712ee86.jpg Suleymaniyah Inference time: 0.44 seconds
-101_jpg.rf.740b54277be23c11ec3022779085c5ee.jpg Private Baghdad Inference time: 0.24 seconds
-106_jpg.rf.fef11449000b78c9b7a03278e2ecef7e.jpg Private Salah Al-Din Inference time: 0.53 seconds
-108_jpg.rf.3ef1c3f3adbee9cb5b194499d198538d.jpg  Inference time: 0.67 seconds
-111_jpg.rf.3f4229c41b2642e5a9c3a370669a084a.jpg Erbil Inference time: 0.51 seconds
-115_jpg.rf.691d0515c35f3fa7ddbadda60f1448ae.jpg Private Baghdad Inference time: 0.47 seconds
-116_jpg.rf.3addd1b734c2516422eb95c01f593b6d.jpg Private Baghdad Inference time: 0.15 seconds
-125_jpg.rf.b8c500e75232e76243e8f2b2fa57f619.jpg Private Baghdad Inference time: 0.16 seconds
-133_jpg.rf.3cc6fe3a2d28822b7cba3797be3a511e.jpg  Inference time: 0.15 seconds
-136_jpg.rf.a577967b5bf4bbacbfb2c47c4ef4b5e3.jpg Baghdad Inference time: 0.37 seconds
-137_jpg.rf.0b3e25a57bb509d415c59b745fd7e9b8.jpg Private Baghdad Inference time: 0.15 seconds
-155_jpg.rf.3254ab133debf369c1d91d3089815e45.jpg Private Baghdad Inference time: 0.16 seconds
-166_jpg.rf.db0a85d921400f96b67ed0fb60f0f762.jpg Private Wasit Inference time: 0.18 seconds
-168_jpg.rf.7f237d8e6d374cda7d119cf8cee3f695.jpg  Inference time: 0.16 seconds
-171_jpg.rf.3f254f21495fb5b59961d8361460e567.jpg Private Baghdad Inference time: 0.46 seconds
-174_jpg.rf.d16a2ba35075bcae9f7981b4d26a53c9.jpg  Inference time: 0.17 seconds
-181_jpg.rf.71fe9ce336928ee7f9f85bffd64685c8.jpg Private Baghdad Inference time: 0.30 seconds
-186_jpg.rf.55534b3d877ae3bc8cf6fbfc7f0c2583.jpg  Inference time: 0.14 seconds
-191_jpg.rf.5e8b47df94b180995e86ee1062e2ad39.jpg Private Baghdad Inference time: 0.15 seconds
-195_jpg.rf.3a974cef8012d0af8d19051b1987c5ab.jpg Private Baghdad Inference time: 0.14 seconds
-197_jpg.rf.643cdc0dda047ac3a59cd5acfeee7f98.jpg Private Baghdad Inference time: 0.15 seconds
-19_JPG_jpg.rf.64e53db51fbc3dba7e042f699950d394.jpg Private Inference time: 0.28 seconds
-200_jpg.rf.2ac42956dad2f2b8acf12a787b5c86d2.jpg Private Baghdad Inference time: 0.44 seconds
-211_jpg.rf.4740a79a04183d764d169518e839004d.jpg Private Baghdad Inference time: 0.44 seconds
-213_jpg.rf.5b8e0135a4da42fd0c180bf9e9117a71.jpg Private Baghdad Inference time: 0.15 seconds
-219_jpg.rf.f29b6b4a90f13d10f4490c351fb2007a.jpg Private Baghdad Inference time: 0.15 seconds
-254_jpg.rf.c8b4b0f7c17094a8ff7f2213037073d5.jpg Erbil Inference time: 0.15 seconds
-265_jpg.rf.f5e7b7f61ca63bfbdbcced4abb794c6a.jpg Private Baghdad Inference time: 0.17 seconds
-271_jpg.rf.80a4868761ef81dcc551a23021a99539.jpg Private Baghdad Inference time: 0.20 seconds
-274_jpg.rf.f64a7d000a8ba9910eb3ad7ce3135ed3.jpg  Inference time: 0.25 seconds
-279_jpg.rf.0285f161c59094473137a8dc76810efd.jpg  Inference time: 0.19 seconds
-289_jpg.rf.56db20c05c5e176f1eaf54c49ec80098.jpg  Inference time: 0.24 seconds
-293_jpg.rf.3b380362198bf5b2935c5bc93e9fad32.jpg  Inference time: 0.26 seconds
-297_jpg.rf.68a9fa2c8c858745923ce2d704fc5247.jpg Baghdad Inference time: 0.19 seconds
+092_jpg.rf.0eee1b78e40367a43d8d9047a712ee86.jpg Suleymaniyah Inference time: 0.21 seconds
+101_jpg.rf.740b54277be23c11ec3022779085c5ee.jpg Private Baghdad Inference time: 0.20 seconds
+106_jpg.rf.fef11449000b78c9b7a03278e2ecef7e.jpg Private Salah Al-Din Inference time: 0.20 seconds
+108_jpg.rf.3ef1c3f3adbee9cb5b194499d198538d.jpg  Inference time: 0.21 seconds
+111_jpg.rf.3f4229c41b2642e5a9c3a370669a084a.jpg Erbil Inference time: 0.22 seconds
+115_jpg.rf.691d0515c35f3fa7ddbadda60f1448ae.jpg Private Baghdad Inference time: 0.20 seconds
+116_jpg.rf.3addd1b734c2516422eb95c01f593b6d.jpg Private Baghdad Inference time: 0.19 seconds
+125_jpg.rf.b8c500e75232e76243e8f2b2fa57f619.jpg Private Baghdad Inference time: 0.21 seconds
+133_jpg.rf.3cc6fe3a2d28822b7cba3797be3a511e.jpg  Inference time: 0.20 seconds
+136_jpg.rf.a577967b5bf4bbacbfb2c47c4ef4b5e3.jpg Baghdad Inference time: 0.22 seconds
+137_jpg.rf.0b3e25a57bb509d415c59b745fd7e9b8.jpg Private Baghdad Inference time: 0.26 seconds
+155_jpg.rf.3254ab133debf369c1d91d3089815e45.jpg Private Baghdad Inference time: 0.24 seconds
+166_jpg.rf.db0a85d921400f96b67ed0fb60f0f762.jpg Private Wasit Inference time: 0.22 seconds
+168_jpg.rf.7f237d8e6d374cda7d119cf8cee3f695.jpg  Inference time: 0.21 seconds
+171_jpg.rf.3f254f21495fb5b59961d8361460e567.jpg Private Baghdad Inference time: 0.21 seconds
+174_jpg.rf.d16a2ba35075bcae9f7981b4d26a53c9.jpg  Inference time: 0.21 seconds
+181_jpg.rf.71fe9ce336928ee7f9f85bffd64685c8.jpg Private Baghdad Inference time: 0.21 seconds
+186_jpg.rf.55534b3d877ae3bc8cf6fbfc7f0c2583.jpg  Inference time: 0.21 seconds
+191_jpg.rf.5e8b47df94b180995e86ee1062e2ad39.jpg Private Baghdad Inference time: 0.23 seconds
+195_jpg.rf.3a974cef8012d0af8d19051b1987c5ab.jpg Private Baghdad Inference time: 0.26 seconds
+197_jpg.rf.643cdc0dda047ac3a59cd5acfeee7f98.jpg Private Baghdad Inference time: 0.22 seconds
+19_JPG_jpg.rf.64e53db51fbc3dba7e042f699950d394.jpg Private Inference time: 0.21 seconds
+200_jpg.rf.2ac42956dad2f2b8acf12a787b5c86d2.jpg Private Baghdad Inference time: 0.22 seconds
+211_jpg.rf.4740a79a04183d764d169518e839004d.jpg Private Baghdad Inference time: 0.22 seconds
+213_jpg.rf.5b8e0135a4da42fd0c180bf9e9117a71.jpg Private Baghdad Inference time: 0.22 seconds
+219_jpg.rf.f29b6b4a90f13d10f4490c351fb2007a.jpg Private Baghdad Inference time: 0.22 seconds
+254_jpg.rf.c8b4b0f7c17094a8ff7f2213037073d5.jpg Erbil Inference time: 0.22 seconds
+265_jpg.rf.f5e7b7f61ca63bfbdbcced4abb794c6a.jpg Private Baghdad Inference time: 0.23 seconds
+271_jpg.rf.80a4868761ef81dcc551a23021a99539.jpg Private Baghdad Inference time: 0.23 seconds
+274_jpg.rf.f64a7d000a8ba9910eb3ad7ce3135ed3.jpg  Inference time: 0.23 seconds
+279_jpg.rf.0285f161c59094473137a8dc76810efd.jpg  Inference time: 0.24 seconds
+289_jpg.rf.56db20c05c5e176f1eaf54c49ec80098.jpg  Inference time: 0.21 seconds
+293_jpg.rf.3b380362198bf5b2935c5bc93e9fad32.jpg  Inference time: 0.21 seconds
+297_jpg.rf.68a9fa2c8c858745923ce2d704fc5247.jpg Baghdad Inference time: 0.24 seconds
 299_jpg.rf.5e3e1b8706c789d268f520e1cc9c4c15.jpg Private Baghdad Inference time: 0.21 seconds
-303_jpg.rf.86162288177462c6bb51688a56e9011a.jpg Private Baghdad Inference time: 0.16 seconds
-312_jpg.rf.745e82b2077cf83097ce7e6f5337dbf9.jpg  Inference time: 0.17 seconds
-31_JPG_jpg.rf.594392860db42d2353fa09d5769084c6.jpg Private Baghdad Inference time: 0.16 seconds
-321_jpg.rf.4772c47d9b8f45b5735a2d261e28beab.jpg  Inference time: 0.16 seconds
-326_jpg.rf.3e7cdd91c39bc49b5f32945862056c58.jpg Private Baghdad Inference time: 0.16 seconds
-333_jpg.rf.dd64e4dc7c392c7929e6047b131c9458.jpg Erbil Inference time: 0.16 seconds
-335_jpg.rf.0950bc8fc6d96e1e6d354e673df5caee.jpg Erbil Inference time: 0.17 seconds
-337_jpg.rf.41322503209f2e8569583147a4ac5726.jpg  Inference time: 0.35 seconds
-339_jpg.rf.d24c7100008f686412427e74ecb3c9c7.jpg Erbil Private Baghdad Inference time: 0.18 seconds
-343_jpg.rf.d8f430955d0e801d03703e3a04a5a09f.jpg Private Baghdad Inference time: 0.21 seconds
-357_jpg.rf.5334a5c359bda54f13e7035033cc3f96.jpg Private Baghdad Inference time: 0.16 seconds
-361_jpg.rf.72559ca2da07fee927566fcce92e30d5.jpg Baghdad Inference time: 0.18 seconds
-368_jpg.rf.b6d9761cafa9dcc17a9331846291854e.jpg taxi Baghdad Inference time: 0.18 seconds
-372_jpg.rf.00e2c2d7b9b9b08b26271ccd9e89c244.jpg Private Babylon Inference time: 0.21 seconds
-378_jpg.rf.6a3cf6eb61dbced94ea053e958182e3b.jpg taxi Baghdad Inference time: 0.17 seconds
-385_jpg.rf.ebfdd5d46b6f3b5cf5e6937df7f85870.jpg Private Baghdad Inference time: 0.15 seconds
-386_jpg.rf.0fdfc4b2558828f6e8900059db2dc049.jpg Erbil Inference time: 0.21 seconds
-387_jpg.rf.f5146364aee457d85c563ee9e1a609be.jpg Erbil Inference time: 0.14 seconds
-388_jpg.rf.a60c181d5e1615243c2e2e4b0da4bd88.jpg Erbil Inference time: 0.21 seconds
-393_jpg.rf.9f26e2302cf2fd94e0fd2e01843ed2d7.jpg Private Babylon Inference time: 0.21 seconds
-394_jpg.rf.f0e3a7c0f3bb7f252c7d63f70b9cbc21.jpg taxi Baghdad Inference time: 0.25 seconds
-395_jpg.rf.b356d91d726884ce9903d816f0b2a1fd.jpg Baghdad Inference time: 0.15 seconds
-3_JPG_jpg.rf.1e3bd6316e356cb58800eb28d50e492b.jpg Erbil Inference time: 0.19 seconds
-401_jpg.rf.e032b29732b01b127086076b40fc5111.jpg Private Baghdad Inference time: 0.17 seconds
-406_jpg.rf.98f0ee49d55babf75090af3024a79adb.jpg Baghdad Inference time: 0.16 seconds
-408_jpg.rf.29e3e0dd84337ea9e3a0bf805b644e08.jpg taxi Baghdad Inference time: 0.17 seconds
-411_jpg.rf.239a68cd6e2783d7cce9deadea9492a1.jpg taxi Baghdad Inference time: 0.15 seconds
-415_jpg.rf.feea8deb7e4bf78f4fa13690d4db4c45.jpg Private Babylon Inference time: 0.14 seconds
-418_jpg.rf.eed7b51506c510b592f106ee4d430bf2.jpg Baghdad Inference time: 0.18 seconds
-426_jpg.rf.adb74cba2f96ed76a3b39da7a41c7864.jpg Private Baghdad Inference time: 0.15 seconds
-430_jpg.rf.24a524b87268e463fe107255bd130e2c.jpg Private Baghdad Inference time: 0.25 seconds
+303_jpg.rf.86162288177462c6bb51688a56e9011a.jpg Private Baghdad Inference time: 0.19 seconds
+312_jpg.rf.745e82b2077cf83097ce7e6f5337dbf9.jpg  Inference time: 0.19 seconds
+31_JPG_jpg.rf.594392860db42d2353fa09d5769084c6.jpg Private Baghdad Inference time: 0.20 seconds
+321_jpg.rf.4772c47d9b8f45b5735a2d261e28beab.jpg  Inference time: 0.19 seconds
+326_jpg.rf.3e7cdd91c39bc49b5f32945862056c58.jpg Private Baghdad Inference time: 0.20 seconds
+333_jpg.rf.dd64e4dc7c392c7929e6047b131c9458.jpg Erbil Inference time: 0.19 seconds
+335_jpg.rf.0950bc8fc6d96e1e6d354e673df5caee.jpg Erbil Inference time: 0.21 seconds
+337_jpg.rf.41322503209f2e8569583147a4ac5726.jpg  Inference time: 0.26 seconds
+339_jpg.rf.d24c7100008f686412427e74ecb3c9c7.jpg Erbil Private Baghdad Inference time: 0.27 seconds
+343_jpg.rf.d8f430955d0e801d03703e3a04a5a09f.jpg Private Baghdad Inference time: 0.23 seconds
+357_jpg.rf.5334a5c359bda54f13e7035033cc3f96.jpg Private Baghdad Inference time: 0.23 seconds
+361_jpg.rf.72559ca2da07fee927566fcce92e30d5.jpg Baghdad Inference time: 0.23 seconds
+368_jpg.rf.b6d9761cafa9dcc17a9331846291854e.jpg taxi Baghdad Inference time: 0.23 seconds
+372_jpg.rf.00e2c2d7b9b9b08b26271ccd9e89c244.jpg Private Babylon Inference time: 0.23 seconds
+378_jpg.rf.6a3cf6eb61dbced94ea053e958182e3b.jpg taxi Baghdad Inference time: 0.24 seconds
+385_jpg.rf.ebfdd5d46b6f3b5cf5e6937df7f85870.jpg Private Baghdad Inference time: 0.22 seconds
+386_jpg.rf.0fdfc4b2558828f6e8900059db2dc049.jpg Erbil Inference time: 0.22 seconds
+387_jpg.rf.f5146364aee457d85c563ee9e1a609be.jpg Erbil Inference time: 0.21 seconds
+388_jpg.rf.a60c181d5e1615243c2e2e4b0da4bd88.jpg Erbil Inference time: 0.20 seconds
+393_jpg.rf.9f26e2302cf2fd94e0fd2e01843ed2d7.jpg Private Babylon Inference time: 0.22 seconds
+394_jpg.rf.f0e3a7c0f3bb7f252c7d63f70b9cbc21.jpg taxi Baghdad Inference time: 0.21 seconds
+395_jpg.rf.b356d91d726884ce9903d816f0b2a1fd.jpg Baghdad Inference time: 0.22 seconds
+3_JPG_jpg.rf.1e3bd6316e356cb58800eb28d50e492b.jpg Erbil Inference time: 0.22 seconds
+401_jpg.rf.e032b29732b01b127086076b40fc5111.jpg Private Baghdad Inference time: 0.22 seconds
+406_jpg.rf.98f0ee49d55babf75090af3024a79adb.jpg Baghdad Inference time: 0.22 seconds
+408_jpg.rf.29e3e0dd84337ea9e3a0bf805b644e08.jpg taxi Baghdad Inference time: 0.22 seconds
+411_jpg.rf.239a68cd6e2783d7cce9deadea9492a1.jpg taxi Baghdad Inference time: 0.22 seconds
+415_jpg.rf.feea8deb7e4bf78f4fa13690d4db4c45.jpg Private Babylon Inference time: 0.24 seconds
+418_jpg.rf.eed7b51506c510b592f106ee4d430bf2.jpg Baghdad Inference time: 0.21 seconds
+426_jpg.rf.adb74cba2f96ed76a3b39da7a41c7864.jpg Private Baghdad Inference time: 0.24 seconds
+430_jpg.rf.24a524b87268e463fe107255bd130e2c.jpg Private Baghdad Inference time: 0.22 seconds
 448_jpg.rf.7a10171105aeba3c9fdef02d5f6b37cf.jpg Private Dhi Qar Inference time: 0.21 seconds
-449_jpg.rf.a00d22623c585f639e1932c84b670ed2.jpg taxi Baghdad Inference time: 0.36 seconds
-44_JPG_jpg.rf.75b685792a4f5a7c9690db510a07a666.jpg Private Baghdad Inference time: 0.23 seconds
-454_jpg.rf.03345e1916486e9502051fe3c7be5fea.jpg taxi Baghdad Inference time: 0.20 seconds
-459_jpg.rf.5a8fc84b1e5bb681be6a2d8f555385c6.jpg Private Dhi Qar Inference time: 0.14 seconds
-463_jpg.rf.185411d9097a80b69bbeabf432332c32.jpg Private Baghdad Inference time: 0.16 seconds
-466_jpg.rf.5e6a7b9369141b820abee2f1ce627b43.jpg Suleymaniyah Inference time: 0.16 seconds
-472_jpg.rf.ea4c5616b38c88a6309a84ac0b72b441.jpg Erbil Inference time: 0.16 seconds
-473_jpg.rf.561961f81d73c73167298858bed53367.jpg Erbil Inference time: 0.17 seconds
-477_jpg.rf.9510ae7b9b79447a054bfde570a7d89d.jpg Erbil Inference time: 0.24 seconds
-494_jpg.rf.1b80895b32b7284bdbee0174d26cf31f.jpg Erbil Inference time: 0.14 seconds
-496_jpg.rf.69ccaee98950a7e1c86ae7224bfd18e7.jpg Erbil Inference time: 0.16 seconds
-498_jpg.rf.ad6a479b1a1c91ec9fa9c22a29fbd0af.jpg Private Baghdad Inference time: 0.18 seconds
-505_jpg.rf.6d7fda32078a418cd446feba02e81b0d.jpg Private Baghdad Inference time: 0.19 seconds
-510_jpg.rf.ffe925eb58f4c46349391cbb363844e3.jpg Erbil Inference time: 0.17 seconds
-511_jpg.rf.3eb91208d0d1bc7da5e01a11230101b5.jpg Private Baghdad Inference time: 0.17 seconds
-512_jpg.rf.529c64a57b9dfb93af1a0a257c07a882.jpg Private Baghdad Inference time: 0.17 seconds
-513_jpg.rf.95ea143078056ca61496ff8f9cea8f24.jpg Private Baghdad Inference time: 0.17 seconds
-59_JPG_jpg.rf.8ecac7948b5e40999c398ee4f6b67a8d.jpg Suleymaniyah Inference time: 0.16 seconds
-60_JPG_jpg.rf.11261a23804cb1660277331a241abb5f.jpg Private Baghdad Inference time: 0.17 seconds
-61_JPG_jpg.rf.3753a80131ebf3dc20b967abf9076706.jpg Private Baghdad Inference time: 0.31 seconds
-6_JPG_jpg.rf.5db605be586c4704ddce3ef6281d810a.jpg Erbil Inference time: 0.15 seconds
+449_jpg.rf.a00d22623c585f639e1932c84b670ed2.jpg taxi Baghdad Inference time: 0.24 seconds
+44_JPG_jpg.rf.75b685792a4f5a7c9690db510a07a666.jpg Private Baghdad Inference time: 0.21 seconds
+454_jpg.rf.03345e1916486e9502051fe3c7be5fea.jpg taxi Baghdad Inference time: 0.21 seconds
+459_jpg.rf.5a8fc84b1e5bb681be6a2d8f555385c6.jpg Private Dhi Qar Inference time: 0.24 seconds
+463_jpg.rf.185411d9097a80b69bbeabf432332c32.jpg Private Baghdad Inference time: 0.25 seconds
+466_jpg.rf.5e6a7b9369141b820abee2f1ce627b43.jpg Suleymaniyah Inference time: 0.27 seconds
+472_jpg.rf.ea4c5616b38c88a6309a84ac0b72b441.jpg Erbil Inference time: 0.27 seconds
+473_jpg.rf.561961f81d73c73167298858bed53367.jpg Erbil Inference time: 0.23 seconds
+477_jpg.rf.9510ae7b9b79447a054bfde570a7d89d.jpg Erbil Inference time: 0.27 seconds
+494_jpg.rf.1b80895b32b7284bdbee0174d26cf31f.jpg Erbil Inference time: 0.24 seconds
+496_jpg.rf.69ccaee98950a7e1c86ae7224bfd18e7.jpg Erbil Inference time: 0.24 seconds
+498_jpg.rf.ad6a479b1a1c91ec9fa9c22a29fbd0af.jpg Private Baghdad Inference time: 0.26 seconds
+505_jpg.rf.6d7fda32078a418cd446feba02e81b0d.jpg Private Baghdad Inference time: 0.28 seconds
+510_jpg.rf.ffe925eb58f4c46349391cbb363844e3.jpg Erbil Inference time: 0.27 seconds
+511_jpg.rf.3eb91208d0d1bc7da5e01a11230101b5.jpg Private Baghdad Inference time: 0.27 seconds
+512_jpg.rf.529c64a57b9dfb93af1a0a257c07a882.jpg Private Baghdad Inference time: 0.24 seconds
+513_jpg.rf.95ea143078056ca61496ff8f9cea8f24.jpg Private Baghdad Inference time: 0.20 seconds
+59_JPG_jpg.rf.8ecac7948b5e40999c398ee4f6b67a8d.jpg Suleymaniyah Inference time: 0.24 seconds
+60_JPG_jpg.rf.11261a23804cb1660277331a241abb5f.jpg Private Baghdad Inference time: 0.21 seconds
+61_JPG_jpg.rf.3753a80131ebf3dc20b967abf9076706.jpg Private Baghdad Inference time: 0.21 seconds
+6_JPG_jpg.rf.5db605be586c4704ddce3ef6281d810a.jpg Erbil Inference time: 0.21 seconds
 a-136-_JPG_jpg.rf.3223b1caa2a56ed70d0ca87051cd3b9b.jpg Suleymaniyah Inference time: 0.21 seconds
-a-138-_JPG_jpg.rf.84d3d3ab3f82027c8cff19a4f9a82f2a.jpg Private Baghdad Inference time: 0.15 seconds
-a-152-_JPG_jpg.rf.7aa5d2c5c730fdddc103d0141dbb86a7.jpg Private Baghdad Inference time: 0.17 seconds
-a-215-_JPG_jpg.rf.c7c92f77e71c492478d79067f074f789.jpg Private Baghdad Inference time: 0.21 seconds
-a-217-_JPG_jpg.rf.60fee4c33dadd836ad6947f0a8898daf.jpg Private Baghdad Inference time: 0.14 seconds
-a-234-_JPG_jpg.rf.e12c863434d89c1f66ec928672bc6d87.jpg Private Baghdad Inference time: 0.18 seconds
-a-236-_JPG_jpg.rf.e28789fe136cc1627283a51da0e50c4b.jpg Private Baghdad Inference time: 0.16 seconds
-a-268-b_JPG_jpg.rf.2ec3c82709608f87c3cc182b502aa18b.jpg Private Baghdad Inference time: 0.15 seconds
-a-308-_JPG_jpg.rf.175872e8a3a10fa53004880a934ab49e.jpg  Inference time: 0.18 seconds
-a-322-1-_JPG_jpg.rf.ed60202c0b6ba7159e27970a0e436b69.jpg Baghdad Inference time: 0.28 seconds
-a-328-_JPG_jpg.rf.554ceec142248813a5eb942a68da3459.jpg Private Baghdad Inference time: 0.19 seconds
-a-349-_JPG_jpg.rf.70a1343d29f04c5af43049f276c94bb5.jpg Private Baghdad Inference time: 0.18 seconds
-a-351-_JPG_jpg.rf.b3a7597818154e16a1008bf8d432aca3.jpg Private Baghdad Inference time: 0.16 seconds
-a-361-b_JPG_jpg.rf.dedf501145af48ffb5a22d09a7db2664.jpg Suleymaniyah Inference time: 0.27 seconds
-a-37-_JPG_jpg.rf.ba53f87c42183906f4a0b1d71edb2f38.jpg  Inference time: 0.18 seconds
-a-374-copy-b_JPG_jpg.rf.00c832dc7201d748ad7a25d7dbb328ac.jpg Private Baghdad Inference time: 0.15 seconds
-a-403-_JPG_jpg.rf.4fff2751a4c8fa9df35af6a0346b3874.jpg Private Baghdad Inference time: 0.18 seconds
-a-406-_JPG_jpg.rf.4ff2e736e7f8a6701dd926442276f6db.jpg Private Baghdad Inference time: 0.15 seconds
-a-413-_JPG_jpg.rf.a39b3616ddfd88aec2c9cea52b6c6a62.jpg  Inference time: 0.17 seconds
-a-425-_JPG_jpg.rf.ada2144c1df971174ca843c2e44c674f.jpg  Inference time: 0.21 seconds
+a-138-_JPG_jpg.rf.84d3d3ab3f82027c8cff19a4f9a82f2a.jpg Private Baghdad Inference time: 0.22 seconds
+a-152-_JPG_jpg.rf.7aa5d2c5c730fdddc103d0141dbb86a7.jpg Private Baghdad Inference time: 0.21 seconds
+a-215-_JPG_jpg.rf.c7c92f77e71c492478d79067f074f789.jpg Private Baghdad Inference time: 0.20 seconds
+a-217-_JPG_jpg.rf.60fee4c33dadd836ad6947f0a8898daf.jpg Private Baghdad Inference time: 0.19 seconds
+a-234-_JPG_jpg.rf.e12c863434d89c1f66ec928672bc6d87.jpg Private Baghdad Inference time: 0.20 seconds
+a-236-_JPG_jpg.rf.e28789fe136cc1627283a51da0e50c4b.jpg Private Baghdad Inference time: 0.21 seconds
+a-268-b_JPG_jpg.rf.2ec3c82709608f87c3cc182b502aa18b.jpg Private Baghdad Inference time: 0.26 seconds
+a-308-_JPG_jpg.rf.175872e8a3a10fa53004880a934ab49e.jpg  Inference time: 0.31 seconds
+a-322-1-_JPG_jpg.rf.ed60202c0b6ba7159e27970a0e436b69.jpg Baghdad Inference time: 0.34 seconds
+a-328-_JPG_jpg.rf.554ceec142248813a5eb942a68da3459.jpg Private Baghdad Inference time: 0.47 seconds
+a-349-_JPG_jpg.rf.70a1343d29f04c5af43049f276c94bb5.jpg Private Baghdad Inference time: 0.45 seconds
+a-351-_JPG_jpg.rf.b3a7597818154e16a1008bf8d432aca3.jpg Private Baghdad Inference time: 0.51 seconds
+a-361-b_JPG_jpg.rf.dedf501145af48ffb5a22d09a7db2664.jpg Suleymaniyah Inference time: 0.53 seconds
+a-37-_JPG_jpg.rf.ba53f87c42183906f4a0b1d71edb2f38.jpg  Inference time: 0.41 seconds
+a-374-copy-b_JPG_jpg.rf.00c832dc7201d748ad7a25d7dbb328ac.jpg Private Baghdad Inference time: 0.42 seconds
+a-403-_JPG_jpg.rf.4fff2751a4c8fa9df35af6a0346b3874.jpg Private Baghdad Inference time: 0.24 seconds
+a-406-_JPG_jpg.rf.4ff2e736e7f8a6701dd926442276f6db.jpg Private Baghdad Inference time: 0.25 seconds
+a-413-_JPG_jpg.rf.a39b3616ddfd88aec2c9cea52b6c6a62.jpg  Inference time: 0.23 seconds
+a-425-_JPG_jpg.rf.ada2144c1df971174ca843c2e44c674f.jpg  Inference time: 0.25 seconds
 a-435-_JPG_jpg.rf.c5d9c7f3ccc5d9f867901de6f3ca7d3a.jpg  Inference time: 0.23 seconds
-a-436-_JPG_jpg.rf.32e46f18f3f2b39e58d8d77beb97b7b9.jpg  Inference time: 0.27 seconds
-a-467-_JPG_jpg.rf.0594c99e97b64c8ee5afc67eb650f998.jpg  Inference time: 0.14 seconds
-a-469-_JPG_jpg.rf.17f5bb6bde8562a7da709cba11252607.jpg Private Baghdad Inference time: 0.18 seconds
-a-477-b_JPG_jpg.rf.e502235837886025fbef65b5c8cce43b.jpg  Inference time: 0.20 seconds
-a-484-_JPG_jpg.rf.193f2d9e9a2a5b0e9b0423143fad7711.jpg Suleymaniyah Inference time: 0.17 seconds
-a-493-_JPG_jpg.rf.064cde842b114983c2de13a3f727d40a.jpg Private Baghdad Inference time: 0.18 seconds
-a-494-_JPG_jpg.rf.d18e3034bcf66e54bd2b2eb74fff0eb2.jpg Erbil Inference time: 0.14 seconds
-a-5-_JPG_jpg.rf.72be7864722cd1a3e713dfbf3f459003.jpg Private Baghdad Inference time: 0.15 seconds
-a-507-_JPG_jpg.rf.a0a614c1b09a454d40ff0961e8e00908.jpg Baghdad Inference time: 0.28 seconds
-a-509-_JPG_jpg.rf.07e384b9c9f2bcc165b5b57f8b1ac7b8.jpg Private Baghdad Inference time: 0.36 seconds
-a-522-_JPG_jpg.rf.ad02f4ddda76d0fda835bc8e1199d0da.jpg  Inference time: 0.15 seconds
-a-524-_JPG_jpg.rf.d553e13f8b79c6143021940abb1535f1.jpg Private Baghdad Inference time: 0.15 seconds
-a-527-_JPG_jpg.rf.0653ead8b9e2018c7fa40c943ac8d45b.jpg Suleymaniyah Inference time: 0.29 seconds
-a-528-_JPG_jpg.rf.3879ceb79c8305a83d28ba03a9ed710d.jpg  Inference time: 0.17 seconds
-a-54-_JPG_jpg.rf.3ba766393a75cad988e9705647fb7a86.jpg Private Baghdad Inference time: 0.17 seconds
-a-569-_JPG_jpg.rf.01da32d68c1d32f35123755b0928bf68.jpg Private Baghdad Inference time: 0.18 seconds
-a-90-_JPG_jpg.rf.08e9859f84a39157ae789a46c8f6784a.jpg Private Baghdad Inference time: 0.15 seconds
-b3_jpg.rf.136383d6a38ca1230b1a9dff44dab177.jpg Erbil Private Inference time: 0.15 seconds
-bz100_jpg.rf.5c24e2891d9c5fe895c5a1a459fe0597.jpg  Inference time: 0.16 seconds
-bz102_jpg.rf.93a6d4e58f32fa1c03ec6f7299152cf5.jpg Private Baghdad Inference time: 0.16 seconds
-bz105_jpg.rf.737d6b774e9cd8c4590d4b0a904e23fe.jpg Private Baghdad Inference time: 0.17 seconds
-bz106_jpg.rf.a28152024b962929b90aa4ea7c5ed78d.jpg Private Baghdad Inference time: 0.16 seconds
-bz110_jpg.rf.724602f42f5e1d0e2d8ef2fc22998a6d.jpg taxi Baghdad Inference time: 0.15 seconds
-bz112_jpg.rf.53a4f671bbe54bb6828ab889a8d15a7e.jpg Private Baghdad Inference time: 0.14 seconds
-bz114_jpg.rf.cda68341749887e0ebf30473d5d4a21c.jpg Private Baghdad Inference time: 0.20 seconds
-bz117_jpg.rf.a53a99b26b50e0885bb8a7068bf3d431.jpg taxi Baghdad Inference time: 0.14 seconds
-bz11_jpg.rf.ab1ecaa0a17e2606fb940a7936550fe3.jpg Private Baghdad Inference time: 0.16 seconds
+a-436-_JPG_jpg.rf.32e46f18f3f2b39e58d8d77beb97b7b9.jpg  Inference time: 0.23 seconds
+a-467-_JPG_jpg.rf.0594c99e97b64c8ee5afc67eb650f998.jpg  Inference time: 0.22 seconds
+a-469-_JPG_jpg.rf.17f5bb6bde8562a7da709cba11252607.jpg Private Baghdad Inference time: 0.23 seconds
+a-477-b_JPG_jpg.rf.e502235837886025fbef65b5c8cce43b.jpg  Inference time: 0.25 seconds
+a-484-_JPG_jpg.rf.193f2d9e9a2a5b0e9b0423143fad7711.jpg Suleymaniyah Inference time: 0.23 seconds
+a-493-_JPG_jpg.rf.064cde842b114983c2de13a3f727d40a.jpg Private Baghdad Inference time: 0.22 seconds
+a-494-_JPG_jpg.rf.d18e3034bcf66e54bd2b2eb74fff0eb2.jpg Erbil Inference time: 0.21 seconds
+a-5-_JPG_jpg.rf.72be7864722cd1a3e713dfbf3f459003.jpg Private Baghdad Inference time: 0.23 seconds
+a-507-_JPG_jpg.rf.a0a614c1b09a454d40ff0961e8e00908.jpg Baghdad Inference time: 0.22 seconds
+a-509-_JPG_jpg.rf.07e384b9c9f2bcc165b5b57f8b1ac7b8.jpg Private Baghdad Inference time: 0.23 seconds
+a-522-_JPG_jpg.rf.ad02f4ddda76d0fda835bc8e1199d0da.jpg  Inference time: 0.24 seconds
+a-524-_JPG_jpg.rf.d553e13f8b79c6143021940abb1535f1.jpg Private Baghdad Inference time: 0.26 seconds
+a-527-_JPG_jpg.rf.0653ead8b9e2018c7fa40c943ac8d45b.jpg Suleymaniyah Inference time: 0.26 seconds
+a-528-_JPG_jpg.rf.3879ceb79c8305a83d28ba03a9ed710d.jpg  Inference time: 0.29 seconds
+a-54-_JPG_jpg.rf.3ba766393a75cad988e9705647fb7a86.jpg Private Baghdad Inference time: 0.29 seconds
+a-569-_JPG_jpg.rf.01da32d68c1d32f35123755b0928bf68.jpg Private Baghdad Inference time: 0.29 seconds
+a-90-_JPG_jpg.rf.08e9859f84a39157ae789a46c8f6784a.jpg Private Baghdad Inference time: 0.28 seconds
+b3_jpg.rf.136383d6a38ca1230b1a9dff44dab177.jpg Erbil Private Inference time: 0.30 seconds
+bz100_jpg.rf.5c24e2891d9c5fe895c5a1a459fe0597.jpg  Inference time: 0.27 seconds
+bz102_jpg.rf.93a6d4e58f32fa1c03ec6f7299152cf5.jpg Private Baghdad Inference time: 0.23 seconds
+bz105_jpg.rf.737d6b774e9cd8c4590d4b0a904e23fe.jpg Private Baghdad Inference time: 0.23 seconds
+bz106_jpg.rf.a28152024b962929b90aa4ea7c5ed78d.jpg Private Baghdad Inference time: 0.25 seconds
+bz110_jpg.rf.724602f42f5e1d0e2d8ef2fc22998a6d.jpg taxi Baghdad Inference time: 0.25 seconds
+bz112_jpg.rf.53a4f671bbe54bb6828ab889a8d15a7e.jpg Private Baghdad Inference time: 0.23 seconds
+bz114_jpg.rf.cda68341749887e0ebf30473d5d4a21c.jpg Private Baghdad Inference time: 0.23 seconds
+bz117_jpg.rf.a53a99b26b50e0885bb8a7068bf3d431.jpg taxi Baghdad Inference time: 0.26 seconds
+bz11_jpg.rf.ab1ecaa0a17e2606fb940a7936550fe3.jpg Private Baghdad Inference time: 0.24 seconds
 bz120_jpg.rf.0c1962f6709343240ca771a6c08b613e.jpg Private Baghdad Inference time: 0.23 seconds
-bz12_jpg.rf.f4ede2cf68871f56b0365048adda92b2.jpg taxi Baghdad Inference time: 0.14 seconds
-bz14-1-_jpg.rf.1240243c40345aa6a915dcde61d553a1.jpg taxi Baghdad Inference time: 0.26 seconds
-bz17_jpg.rf.246d95ab8975ecde642a05034d9f9797.jpg taxi Baghdad Inference time: 0.19 seconds
-bz19_jpg.rf.0aad61a9030ad42e0ba49e983e080010.jpg Baghdad Inference time: 0.20 seconds
-bz20_jpg.rf.138d35c9a6c8c047e6cf7226899d35d4.jpg Private Babylon trucks Inference time: 0.14 seconds
-bz22_jpg.rf.700367cfaa7a06b00c1a242c69818f9f.jpg Private Babylon Inference time: 0.15 seconds
-bz24_jpg.rf.10d5c428ee2b244a2a865f04a97967fe.jpg Private Baghdad Inference time: 0.14 seconds
-bz26_jpg.rf.36b5831c6fb48f95ecf9d8e47379eac0.jpg taxi Baghdad Inference time: 0.15 seconds
-bz30_jpg.rf.30a032e43c21117127c664b752fd3449.jpg Suleymaniyah Inference time: 0.16 seconds
-bz35_jpg.rf.0b38c1bd598b9278871022116b72975c.jpg Erbil Inference time: 0.16 seconds
-bz38_jpg.rf.e0689445195cf83c0a124f62542fa720.jpg taxi Baghdad Inference time: 0.25 seconds
-bz41_jpg.rf.71a57043b7585378ba9981b3b364d637.jpg  Inference time: 0.16 seconds
+bz12_jpg.rf.f4ede2cf68871f56b0365048adda92b2.jpg taxi Baghdad Inference time: 0.21 seconds
+bz14-1-_jpg.rf.1240243c40345aa6a915dcde61d553a1.jpg taxi Baghdad Inference time: 0.21 seconds
+bz17_jpg.rf.246d95ab8975ecde642a05034d9f9797.jpg taxi Baghdad Inference time: 0.20 seconds
+bz19_jpg.rf.0aad61a9030ad42e0ba49e983e080010.jpg Baghdad Inference time: 0.23 seconds
+bz20_jpg.rf.138d35c9a6c8c047e6cf7226899d35d4.jpg Private Babylon trucks Inference time: 0.22 seconds
+bz22_jpg.rf.700367cfaa7a06b00c1a242c69818f9f.jpg Private Babylon Inference time: 0.22 seconds
+bz24_jpg.rf.10d5c428ee2b244a2a865f04a97967fe.jpg Private Baghdad Inference time: 0.22 seconds
+bz26_jpg.rf.36b5831c6fb48f95ecf9d8e47379eac0.jpg taxi Baghdad Inference time: 0.22 seconds
+bz30_jpg.rf.30a032e43c21117127c664b752fd3449.jpg Suleymaniyah Inference time: 0.23 seconds
+bz35_jpg.rf.0b38c1bd598b9278871022116b72975c.jpg Erbil Inference time: 0.26 seconds
+bz38_jpg.rf.e0689445195cf83c0a124f62542fa720.jpg taxi Baghdad Inference time: 0.23 seconds
+bz41_jpg.rf.71a57043b7585378ba9981b3b364d637.jpg  Inference time: 0.21 seconds
 bz48_jpg.rf.7501c0a710a9968cbb05b73ddce0a41c.jpg  Inference time: 0.21 seconds
-bz66_jpg.rf.20d0e1d02b0143a3b2a87644045a5e03.jpg Baghdad Inference time: 0.14 seconds
-bz71_jpg.rf.56cdfbbc8bb0aaa0d5516aa906b6c694.jpg Private Baghdad Inference time: 0.18 seconds
-bz7_jpg.rf.65575b045b02025ff7b32422b0c3a50a.jpg Baghdad Inference time: 0.42 seconds
-bz97_jpg.rf.5844f73980c72460e1d47666bc864046.jpg Private Baghdad Inference time: 0.19 seconds
-bz98_jpg.rf.6f5124dfb7cab8e05f1c25a6653e334f.jpg Private Wasit Najaf Inference time: 0.23 seconds
-FB_IMG_1666326884849_jpg.rf.0fd096f5786c8c7c999f956e3e53c137.jpg Private Baghdad Inference time: 0.14 seconds
-FB_IMG_1666326993712_jpg.rf.8698664e11a38e26ad8d4bbab21f423a.jpg  Inference time: 0.18 seconds
-FB_IMG_1666327147878_jpg.rf.36e9046eef79e8b0c1ab2424276d17e7.jpg Erbil Inference time: 0.17 seconds
-FB_IMG_1666327217318_jpg.rf.4e792ddf0cbc1d03b65eb6f1eff29634.jpg Suleymaniyah Inference time: 0.18 seconds
-FB_IMG_1666327237700_jpg.rf.be77eff4c47d46da99d4b8ec1d13744b.jpg Suleymaniyah Inference time: 0.16 seconds
-FB_IMG_1666327395037_jpg.rf.822b85da429af7adcedfd98702599dd5.jpg Private Baghdad Inference time: 0.14 seconds
-FB_IMG_1666327526963_jpg.rf.e9b2bf0dc937ce6f78924829f6fb02e8.jpg Private Baghdad Inference time: 0.15 seconds
+bz66_jpg.rf.20d0e1d02b0143a3b2a87644045a5e03.jpg Baghdad Inference time: 0.22 seconds
+bz71_jpg.rf.56cdfbbc8bb0aaa0d5516aa906b6c694.jpg Private Baghdad Inference time: 0.21 seconds
+bz7_jpg.rf.65575b045b02025ff7b32422b0c3a50a.jpg Baghdad Inference time: 0.22 seconds
+bz97_jpg.rf.5844f73980c72460e1d47666bc864046.jpg Private Baghdad Inference time: 0.22 seconds
+bz98_jpg.rf.6f5124dfb7cab8e05f1c25a6653e334f.jpg Private Wasit Najaf Inference time: 0.21 seconds
+FB_IMG_1666326884849_jpg.rf.0fd096f5786c8c7c999f956e3e53c137.jpg Private Baghdad Inference time: 0.22 seconds
+FB_IMG_1666326993712_jpg.rf.8698664e11a38e26ad8d4bbab21f423a.jpg  Inference time: 0.24 seconds
+FB_IMG_1666327147878_jpg.rf.36e9046eef79e8b0c1ab2424276d17e7.jpg Erbil Inference time: 0.22 seconds
+FB_IMG_1666327217318_jpg.rf.4e792ddf0cbc1d03b65eb6f1eff29634.jpg Suleymaniyah Inference time: 0.24 seconds
+FB_IMG_1666327237700_jpg.rf.be77eff4c47d46da99d4b8ec1d13744b.jpg Suleymaniyah Inference time: 0.23 seconds
+FB_IMG_1666327395037_jpg.rf.822b85da429af7adcedfd98702599dd5.jpg Private Baghdad Inference time: 0.23 seconds
+FB_IMG_1666327526963_jpg.rf.e9b2bf0dc937ce6f78924829f6fb02e8.jpg Private Baghdad Inference time: 0.24 seconds
 photo_2023-02-12_07-55-09_jpg.rf.6a0facd93154101dbaa2739888be65ca.jpg Suleymaniyah Inference time: 0.24 seconds
-photo_2023-02-12_07-55-32_jpg.rf.7e41531c8478992c66d6278958cca2c5.jpg Erbil Inference time: 0.24 seconds
-photo_2023-02-12_07-55-33_jpg.rf.986aa14053527e97d866400683042a64.jpg Erbil Inference time: 0.23 seconds
-photo_2023-02-12_07-55-35_jpg.rf.0009a0d9085f4e6c435c57793b3a9b22.jpg Erbil Inference time: 0.24 seconds
-photo_2023-02-12_07-55-58_jpg.rf.d946dcd5eb6ac3f3b390fa3dc8e762d6.jpg Private Baghdad Inference time: 0.21 seconds
-photo_2023-02-12_07-56-02_jpg.rf.014fa2b0acaa574b946ef81447df2c84.jpg Private Baghdad Inference time: 0.15 seconds
-photo_2023-02-12_07-56-03_jpg.rf.05ecd0361d55688b8833d8bb7291e786.jpg Private Baghdad Inference time: 0.16 seconds
-photo_2023-02-12_07-56-12_jpg.rf.4781b2e67e86467875a258eb5d0eb25a.jpg Private Baghdad Inference time: 0.24 seconds
-photo_2023-02-12_07-56-24_jpg.rf.bf4d241dc37741dd84a60b5605abf47a.jpg Erbil Inference time: 0.28 seconds
+photo_2023-02-12_07-55-32_jpg.rf.7e41531c8478992c66d6278958cca2c5.jpg Erbil Inference time: 0.26 seconds
+photo_2023-02-12_07-55-33_jpg.rf.986aa14053527e97d866400683042a64.jpg Erbil Inference time: 0.22 seconds
+photo_2023-02-12_07-55-35_jpg.rf.0009a0d9085f4e6c435c57793b3a9b22.jpg Erbil Inference time: 0.20 seconds
+photo_2023-02-12_07-55-58_jpg.rf.d946dcd5eb6ac3f3b390fa3dc8e762d6.jpg Private Baghdad Inference time: 0.19 seconds
+photo_2023-02-12_07-56-02_jpg.rf.014fa2b0acaa574b946ef81447df2c84.jpg Private Baghdad Inference time: 0.23 seconds
+photo_2023-02-12_07-56-03_jpg.rf.05ecd0361d55688b8833d8bb7291e786.jpg Private Baghdad Inference time: 0.22 seconds
+photo_2023-02-12_07-56-12_jpg.rf.4781b2e67e86467875a258eb5d0eb25a.jpg Private Baghdad Inference time: 0.21 seconds
+photo_2023-02-12_07-56-24_jpg.rf.bf4d241dc37741dd84a60b5605abf47a.jpg Erbil Inference time: 0.22 seconds
 photo_2023-02-12_07-56-41_jpg.rf.00bcaf0a2c134c79f19de7ad462e33ac.jpg Private Baghdad Inference time: 0.23 seconds

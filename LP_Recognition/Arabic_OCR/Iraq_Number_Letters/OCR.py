@@ -109,4 +109,4 @@ def inference_image_iraqi(input_path):
             sorted_classes = df_sorted['name'].tolist()
             print(sorted_classes)
             return ' '.join(sorted_classes)
-inference_dir(input_dir, output_dir)
+#inference_dir(input_dir, output_dir)

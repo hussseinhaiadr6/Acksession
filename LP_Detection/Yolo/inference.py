@@ -6,7 +6,7 @@ import torch
 import cv2
 import numpy as np
 from LP_Recognition.Farsi_OCR.OCR import inference_image_farsi
-from LP_Recognition.Arabic_OCR.Iraq_Number_Letters.OCR import inference_image_iraqi
+from LP_Recognition.Farsi_OCR.OCR import inference_image_farsi
 # Load your custom model
 model = torch.hub.load(r'C:\Users\HHR6\PycharmProjects\Testing_Pipeline\yolov5', 'custom',force_reload=True, path='./Models/IranLPDetection3.onnx',source="local")
 model.conf = 0.45  # NMS confidence threshold
@@ -149,10 +149,10 @@ def inference_video(video_path):
         cv2.putText(resize_image, label, (int(bbox[0]), int(bbox[1] - 10)), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
         # Press 'q' to quit the video display
         resize_image_1=resize_image[int(bbox[1]):int(bbox[3]),int(bbox[0]):int(bbox[2])]
-        if class_1=="Old_Iraq":
+        if class_1=="Iran":
             im = Image.fromarray(resize_image_1)
             im.save("./frame_temp.jpg")
-            txt=inference_image_iraqi("./frame_temp.jpg")
+            txt=inference_image_farsi("./frame_temp.jpg")
             cv2.putText(resize_image, txt, (int(bbox[0]), int(bbox[1] - 25)), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0),
                         2)
         cv2.imshow('Processed Frame', resize_image)
@@ -166,9 +166,9 @@ def inference_video(video_path):
     cv2.destroyAllWindows()
 
 # Example usage
-input_video_path = r'C:\Users\HHR6\PycharmProjects\Testing_Pipeline\videoplayback (2).mp4'
-#inference_video(input_video_path)
+input_video_path = r'C:\Users\HHR6\PycharmProjects\Testing_Pipeline\videoplayback.mp4'
+inference_video(input_video_path)
 
 # Test the function
 #inference_image(r"C:/Users\HHR6\PycharmProjects\Testing_Pipeline\Acksession-Project\yolov8_compiled_dataset/test\Benchmark_Dataset/1_jpg.rf.e0d71bfac749526f7f57a7274f7f8f1e.jpg")"""
-inference_directory(input_dir)
+#inference_directory(input_dir)

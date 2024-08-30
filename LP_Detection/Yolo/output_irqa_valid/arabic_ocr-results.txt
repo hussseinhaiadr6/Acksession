@@ -1,0 +1,37 @@
+002_jpg.rf.ed34f2ec0ceabbe9eb3d930dacf87c93.jpg 5 0 5 2 7 Inference time: 0.12 seconds
+005_jpg.rf.261f9d1a6932d22ee0b518146cc2d579.jpg 5 9 8 6 4 2 Inference time: 0.10 seconds
+007_jpg.rf.1fd838d8c0f05987da2a7cc862ac121f.jpg a 3 3 4 3 Inference time: 0.10 seconds
+010_jpg.rf.6547c9140aea1bfabf4a35f9a2f69b1c.jpg o 6 3 7 6 8 Inference time: 0.10 seconds
+019_jpg.rf.71a99b19138f45f9bf98de9c1fd6ad6b.jpg 4 9 1 4 3 5 Inference time: 0.10 seconds
+028_jpg.rf.b7eb2ec1872dc6b6d59efb2d32e89b50.jpg b 3 9 8 3 3 Inference time: 0.10 seconds
+029_jpg.rf.deae88d8e4c2bace144ce2dd46bdda80.jpg t 4 7 7 7 0 Inference time: 0.11 seconds
+040_jpg.rf.eb5146461699de80f152795d746879bc.jpg o 4 4 5 3 1 Inference time: 0.10 seconds
+044_jpg.rf.fe5bb9ace25c0f046079acffc4660fcd.jpg 6 5 2 2 3 7 Inference time: 0.11 seconds
+046_jpg.rf.294c7058b9165967f76fdbf646bc0a96.jpg 5 2 5 6 6 3 Inference time: 0.10 seconds
+048_jpg.rf.de5cd9e5ba121f358cac2486e98aada6.jpg qaf 1 1 9 8 6 Inference time: 0.10 seconds
+052_jpg.rf.11ba8a37b05dd588ed74f400b620bf5b.jpg f 3 3 4 7 5 Inference time: 0.11 seconds
+053_jpg.rf.aa02bf2b1624eb871b7693449983a2cc.jpg 5 7 4 1 4 7 Inference time: 0.11 seconds
+055_jpg.rf.bdae7c18e00d2cbff7afd710f3ea3260.jpg 4 4 4 1 5 4 Inference time: 0.11 seconds
+063_jpg.rf.de5777204597d5c7fb12e3c3c8e53d27.jpg 4 2 9 6 2 7 Inference time: 0.10 seconds
+076_jpg.rf.7011d057b8f84a7ce642f9ab1cec3a3f.jpg 9 3 4 9 0 Inference time: 0.11 seconds
+077_jpg.rf.b5eda1df835e33fb9b4ae6e6ae8a2cc1.jpg j 5 4 6 2 7 Inference time: 0.11 seconds
+082_jpg.rf.bcf0fb940348903981bfe09ad69d835a.jpg 3 0 0 0 0 Inference time: 0.11 seconds
+084_jpg.rf.a940a3fd848854a0c15b3c8e6f822077.jpg 3 Inference time: 0.10 seconds
+086_jpg.rf.7884befe1928e813f8e85bea8234a265.jpg 3 0 2 0 2 7 Inference time: 0.10 seconds
+088_jpg.rf.a80a280db624109b70f4499162348e8e.jpg 4 2 4 3 Inference time: 0.10 seconds
+089_jpg.rf.747c54f6551e55f13abb2ef8ba336acc.jpg 5 6 6 9 Inference time: 0.10 seconds
+092_jpg.rf.0eee1b78e40367a43d8d9047a712ee86.jpg 6 6 Inference time: 0.10 seconds
+101_jpg.rf.740b54277be23c11ec3022779085c5ee.jpg d 1 0 0 0 Inference time: 0.10 seconds
+106_jpg.rf.fef11449000b78c9b7a03278e2ecef7e.jpg b 4 Inference time: 0.11 seconds
+108_jpg.rf.3ef1c3f3adbee9cb5b194499d198538d.jpg 7 5 0 3 1 2 Inference time: 0.10 seconds
+111_jpg.rf.3f4229c41b2642e5a9c3a370669a084a.jpg 1 3 0 1 2 Inference time: 0.10 seconds
+115_jpg.rf.691d0515c35f3fa7ddbadda60f1448ae.jpg i 1 Inference time: 0.11 seconds
+116_jpg.rf.3addd1b734c2516422eb95c01f593b6d.jpg n 1 Inference time: 0.10 seconds
+125_jpg.rf.b8c500e75232e76243e8f2b2fa57f619.jpg t 3 3 3 3 3 Inference time: 0.10 seconds
+133_jpg.rf.3cc6fe3a2d28822b7cba3797be3a511e.jpg 2 1 7 1 7 1 Inference time: 0.10 seconds
+136_jpg.rf.a577967b5bf4bbacbfb2c47c4ef4b5e3.jpg 6 9 5 7 2 Inference time: 0.10 seconds
+137_jpg.rf.0b3e25a57bb509d415c59b745fd7e9b8.jpg f 1 8 1 8 8 Inference time: 0.11 seconds
+155_jpg.rf.3254ab133debf369c1d91d3089815e45.jpg j 7 3 Inference time: 0.10 seconds
+166_jpg.rf.db0a85d921400f96b67ed0fb60f0f762.jpg a 2 7 6 3 4 Inference time: 0.12 seconds
+168_jpg.rf.7f237d8e6d374cda7d119cf8cee3f695.jpg 7 4 1 0 1 Inference time: 0.11 seconds
+171_jpg.rf.3f254f21495fb5b59961d8361460e567.jpg b 9 Inference time: 0.11 seconds

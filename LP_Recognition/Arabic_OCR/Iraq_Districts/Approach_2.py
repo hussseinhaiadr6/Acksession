@@ -58,7 +58,7 @@ with open(output_file_path, 'w') as f:
 
         end_time = time.time()
         inference_time = end_time - start_time
-
+        print("Inference time: ", inference_time)
         # Convert results to pandas DataFrame
         df = results.pandas().xyxy[0]
 
